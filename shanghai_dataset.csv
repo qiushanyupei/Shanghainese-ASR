@@ -1,136 +1,466 @@
-path,text,,,
-"/content/Shanghainese-ASR/audio/1.µÚÒ»Õn(Av69183512,P1)-02.wav",ºÙÄúÔçÕÅÏÈÉú,/content/Shanghainese-ASR/audio/,1.µÚÒ»Õn(Av69183512,P1)-02.wav
-"/content/Shanghainese-ASR/audio/1.µÚÒ»Õn(Av69183512,P1)-03.wav",°¥ßÏÊÇÄúÀÏĞÖ°¡ºÃ¾Ã²»¼ûÁËÄúºÃÂğ,/content/Shanghainese-ASR/audio/,1.µÚÒ»Õn(Av69183512,P1)-03.wav
-"/content/Shanghainese-ASR/audio/1.µÚÒ»Õn(Av69183512,P1)-04.wav",ºÃÍ¦ºÃ½üÀ´ÉíÌåºÃÂğ,/content/Shanghainese-ASR/audio/,1.µÚÒ»Õn(Av69183512,P1)-04.wav
-"/content/Shanghainese-ASR/audio/1.µÚÒ»Õn(Av69183512,P1)-05.wav",ºÃºÃÄãÔõÃ´ÕâÃ´Ã¦°¡Á¬ÈËÓ°Ò²²»¼ûÎÒ³£Äî×ÅÄãÄØ,/content/Shanghainese-ASR/audio/,1.µÚÒ»Õn(Av69183512,P1)-05.wav
-"/content/Shanghainese-ASR/audio/1.µÚÒ»Õn(Av69183512,P1)-06.wav",×î½üÊÇÃ¦Ò»µã¶ùËûÃÇÀÏÊÇÅÉÎÒ³ö²îÈ¥ÎÒÒ²³£ÏëÀ´¿´Äú,/content/Shanghainese-ASR/audio/,1.µÚÒ»Õn(Av69183512,P1)-06.wav
-"/content/Shanghainese-ASR/audio/1.µÚÒ»Õn(Av69183512,P1)-07.wav",½ñÌìÕâÃ´ÇÉÓöµ½ÄúÕâ»á¶ùÔÛÀÏÅóÓÑÒ»ÆğÈ¥ÁÄÁÄ,/content/Shanghainese-ASR/audio/,1.µÚÒ»Õn(Av69183512,P1)-07.wav
-"/content/Shanghainese-ASR/audio/1.µÚÒ»Õn(Av69183512,P1)-10.wav",Å¶ÊÇÄãÀ´ÁËÇë½øÇë½ø,/content/Shanghainese-ASR/audio/,1.µÚÒ»Õn(Av69183512,P1)-10.wav
-"/content/Shanghainese-ASR/audio/1.µÚÒ»Õn(Av69183512,P1)-11.wav",¾ÃÑö¾ÃÑöÍõÏÈÉúÄúºÃ,/content/Shanghainese-ASR/audio/,1.µÚÒ»Õn(Av69183512,P1)-11.wav
-"/content/Shanghainese-ASR/audio/1.µÚÒ»Õn(Av69183512,P1)-12.wav",À´À´×ø°¡×øºÈÊ²Ã´²è°¡,/content/Shanghainese-ASR/audio/,1.µÚÒ»Õn(Av69183512,P1)-12.wav
-"/content/Shanghainese-ASR/audio/1.µÚÒ»Õn(Av69183512,P1)-13.wav",ÏÈÉú±ğ¿ÍÆøµ¹Ò»±­°×¿ªË®ºÈĞĞÁË,/content/Shanghainese-ASR/audio/,1.µÚÒ»Õn(Av69183512,P1)-13.wav
-"/content/Shanghainese-ASR/audio/1.µÚÒ»Õn(Av69183512,P1)-14.wav",½ñÌìÄãÉÏÃÅÀ´ÓĞµãÊ²Ã´ÊÂ¶ù°¡,/content/Shanghainese-ASR/audio/,1.µÚÒ»Õn(Av69183512,P1)-14.wav
-"/content/Shanghainese-ASR/audio/1.µÚÒ»Õn(Av69183512,P1)-15.wav",ÏÈÉúÄú¶ù×Ó×òÌì´òµç»°À´Ô¼ÎÒÒ»ÆğÈ¥°İ·ÃÀîÀÏÊ¦,/content/Shanghainese-ASR/audio/,1.µÚÒ»Õn(Av69183512,P1)-15.wav
-"/content/Shanghainese-ASR/audio/1.µÚÒ»Õn(Av69183512,P1)-16.wav",°¥ßÏºÜ±§Ç¸ÎÒÒªËûÈ¥¶ÔÃæ³¬ÊĞÂòµã¶«Î÷ÂíÉÏ¾Í»á»ØÀ´ÇëÄãÉÔµÈ,/content/Shanghainese-ASR/audio/,1.µÚÒ»Õn(Av69183512,P1)-16.wav
-"/content/Shanghainese-ASR/audio/1.µÚÒ»Õn(Av69183512,P1)-18.wav",ÄãÒª×ßÀ²ÔÙ×øÒ»»á¶ù°É,/content/Shanghainese-ASR/audio/,1.µÚÒ»Õn(Av69183512,P1)-18.wav
-"/content/Shanghainese-ASR/audio/1.µÚÒ»Õn(Av69183512,P1)-19.wav",²»×øÁËÎÒ»¹ÓĞµãÊÂ¶ùÄØ,/content/Shanghainese-ASR/audio/,1.µÚÒ»Õn(Av69183512,P1)-19.wav
-"/content/Shanghainese-ASR/audio/1.µÚÒ»Õn(Av69183512,P1)-20.wav",ÄÇÃ´ÎÒÀ´ËÍÄã,/content/Shanghainese-ASR/audio/,1.µÚÒ»Õn(Av69183512,P1)-20.wav
-"/content/Shanghainese-ASR/audio/1.µÚÒ»Õn(Av69183512,P1)-21.wav",²»ÓÃÁËÎÒ×Ô¼º×ß,/content/Shanghainese-ASR/audio/,1.µÚÒ»Õn(Av69183512,P1)-21.wav
-"/content/Shanghainese-ASR/audio/1.µÚÒ»Õn(Av69183512,P1)-22.wav",Ã»¹ØÏµËÍÄãµ½µçÌİ¿Ú,/content/Shanghainese-ASR/audio/,1.µÚÒ»Õn(Av69183512,P1)-22.wav
-"/content/Shanghainese-ASR/audio/1.µÚÒ»Õn(Av69183512,P1)-23.wav",Ğ»Ğ»Ğ»Ğ»ÏÂ´ÎÔÙÀ´¿´ÍûÄã°É,/content/Shanghainese-ASR/audio/,1.µÚÒ»Õn(Av69183512,P1)-23.wav
-"/content/Shanghainese-ASR/audio/1.µÚÒ»Õn(Av69183512,P1)-24.wav",Âı×ßÕâ¶ùÓĞÕµµÆ¿ªÒ»ÏÂ,/content/Shanghainese-ASR/audio/,1.µÚÒ»Õn(Av69183512,P1)-24.wav
-"/content/Shanghainese-ASR/audio/1.µÚÒ»Õn(Av69183512,P1)-25.wav",ÇëÁô²½±ğËÍÁË°İ°İ,/content/Shanghainese-ASR/audio/,1.µÚÒ»Õn(Av69183512,P1)-25.wav
-"/content/Shanghainese-ASR/audio/1.µÚÒ»Õn(Av69183512,P1)-26.wav",ÔÙ¼ûÓĞ¿Õ¶àÀ´Íæ¶ù,/content/Shanghainese-ASR/audio/,1.µÚÒ»Õn(Av69183512,P1)-26.wav
-"/content/Shanghainese-ASR/audio/1.µÚÒ»Õn(Av69183512,P1)-27.wav",Ò»¶¨À´Ò»¶¨À´,/content/Shanghainese-ASR/audio/,1.µÚÒ»Õn(Av69183512,P1)-27.wav
-"/content/Shanghainese-ASR/audio/1.µÚÒ»Õn(Av69183512,P1)-29.wav",Âé·³ÄãÁËÕâÏÂÈÃÄã½ñÌìÀÛËÀÁË¿ì×øÒ»»á¶ùºÈ±­ÒûÁÏ,/content/Shanghainese-ASR/audio/,1.µÚÒ»Õn(Av69183512,P1)-29.wav
-"/content/Shanghainese-ASR/audio/1.µÚÒ»Õn(Av69183512,P1)-30.wav",Ã»¹ØÏµÄã»¹ÓĞÊ²Ã´ÒªÎÒ°ïÃ¦µÄÂğ,/content/Shanghainese-ASR/audio/,1.µÚÒ»Õn(Av69183512,P1)-30.wav
-"/content/Shanghainese-ASR/audio/1.µÚÒ»Õn(Av69183512,P1)-31.wav",Ã»ÁËÃ»Ê²Ã´ÁËÄãÕæÈÈĞÄÄã°Ö°ÖÂèÂèÒ²³£³£ÕÕ¹ËÎÒÎÒºÜ²»ºÃÒâË¼Ğ»Ğ»Äã,/content/Shanghainese-ASR/audio/,1.µÚÒ»Õn(Av69183512,P1)-31.wav
-"/content/Shanghainese-ASR/audio/1.µÚÒ»Õn(Av69183512,P1)-32.wav",²»ÓÃĞ»Ã»¹ØÏµµÄ,/content/Shanghainese-ASR/audio/,1.µÚÒ»Õn(Av69183512,P1)-32.wav
-"/content/Shanghainese-ASR/audio/1.µÚÒ»Õn(Av69183512,P1)-34.wav",ÇëÄãÈÃÎÒÒ»ÏÂºÃ²»ºÃ,/content/Shanghainese-ASR/audio/,1.µÚÒ»Õn(Av69183512,P1)-34.wav
-"/content/Shanghainese-ASR/audio/1.µÚÒ»Õn(Av69183512,P1)-35.wav",Å¶ÄãÄÜ×ßÂğ´ÓÎÒÅÔ±ß¹ıÈ¥°É,/content/Shanghainese-ASR/audio/,1.µÚÒ»Õn(Av69183512,P1)-35.wav
-"/content/Shanghainese-ASR/audio/1.µÚÒ»Õn(Av69183512,P1)-36.wav",°¥ßÏ×²µ½ÄãÁË¶Ô²»Æğ¶Ô²»ÆğÃ»ÊÂ¶ù,/content/Shanghainese-ASR/audio/,1.µÚÒ»Õn(Av69183512,P1)-36.wav
-"/content/Shanghainese-ASR/audio/2.µÚ¶şÕn(Av69183512,P2)-02.wav",ÇëÎÊÄú¹óĞÕÎÒĞÕÍõ,/content/Shanghainese-ASR/audio/,2.µÚ¶şÕn(Av69183512,P2)-02.wav
-"/content/Shanghainese-ASR/audio/2.µÚ¶şÕn(Av69183512,P2)-03.wav",´óÃûÊÇÊ²Ã´ÎÒÊÇÍõĞ¡ÁÖ,/content/Shanghainese-ASR/audio/,2.µÚ¶şÕn(Av69183512,P2)-03.wav
-"/content/Shanghainese-ASR/audio/2.µÚ¶şÕn(Av69183512,P2)-04.wav",Äú½ñÄê¶à´óÁËÎÒÊÇ¶şÊ®ÎåËêÁË,/content/Shanghainese-ASR/audio/,2.µÚ¶şÕn(Av69183512,P2)-04.wav
-"/content/Shanghainese-ASR/audio/2.µÚ¶şÕn(Av69183512,P2)-05.wav",ÄúÊÇÄÄÀïÈËÎÒÊÇÎÂÖİÈË,/content/Shanghainese-ASR/audio/,2.µÚ¶şÕn(Av69183512,P2)-05.wav
-"/content/Shanghainese-ASR/audio/2.µÚ¶şÕn(Av69183512,P2)-06.wav",Äú´ÓÊ²Ã´µØ·½À´µÄÎÒ½ñÌìÔç³¿´ÓÉîÛÚ×ø·É»úÀ´µÄ,/content/Shanghainese-ASR/audio/,2.µÚ¶şÕn(Av69183512,P2)-06.wav
-"/content/Shanghainese-ASR/audio/2.µÚ¶şÕn(Av69183512,P2)-08.wav",Äãµ½ÉÏº£¶àÉÙÊ±¼äÁËÎÒÀ´ÁËÁ½ÄêÁË,/content/Shanghainese-ASR/audio/,2.µÚ¶şÕn(Av69183512,P2)-08.wav
-"/content/Shanghainese-ASR/audio/2.µÚ¶şÕn(Av69183512,P2)-09.wav",Äã»á½²ÉÏº£»°Âğ,/content/Shanghainese-ASR/audio/,2.µÚ¶şÕn(Av69183512,P2)-09.wav
-"/content/Shanghainese-ASR/audio/2.µÚ¶şÕn(Av69183512,P2)-10.wav",ÉÏº£»°ÎÒÄÜÌı¶®Ò»µã¶ùµ«ÊÇ²»»á½²,/content/Shanghainese-ASR/audio/,2.µÚ¶şÕn(Av69183512,P2)-10.wav
-"/content/Shanghainese-ASR/audio/2.µÚ¶şÕn(Av69183512,P2)-11.wav",Äã¶ÔÉÏº£µÄ½»Í¨Çé¿öÊìÏ¤²»ÊìÏ¤ÎÒ²»Ì«ĞĞ³£³£´øÉÏÒ»±¾ÉÏº£µØÍ¼,/content/Shanghainese-ASR/audio/,2.µÚ¶şÕn(Av69183512,P2)-11.wav
-"/content/Shanghainese-ASR/audio/2.µÚ¶şÕn(Av69183512,P2)-13.wav",½ñÌìºÜµ¡ÂıÒªÄãµÈÁËºÃ³¤Ê±¼äÓÖÃ»ÓĞÊ²Ã´ÕĞ´ıÄã·Ç³£±§Ç¸,/content/Shanghainese-ASR/audio/,2.µÚ¶şÕn(Av69183512,P2)-13.wav
-"/content/Shanghainese-ASR/audio/2.µÚ¶şÕn(Av69183512,P2)-14.wav",±ğ¿ÍÆøÃ»¹ØÏµµÄ,/content/Shanghainese-ASR/audio/,2.µÚ¶şÕn(Av69183512,P2)-14.wav
-"/content/Shanghainese-ASR/audio/2.µÚ¶şÕn(Av69183512,P2)-15.wav",ÎÒºÃÏñ´ÓÇ°¼û¹ıÄãÊÇ°¡ÎÒÊÇ²Üç÷ÎÒÔÚĞÂÉê¹«Ë¾×ö¹ı,/content/Shanghainese-ASR/audio/,2.µÚ¶şÕn(Av69183512,P2)-15.wav
-"/content/Shanghainese-ASR/audio/2.µÚ¶şÕn(Av69183512,P2)-16.wav",Å¶¹Ö²»µÃÎÒµ½ÄãÃÇ¹«Ë¾ÁªÏµ¹ı¿Í»§ÎÒÊÇÎÒÃÇ¾­ÀíµÄÖúÀí½ĞÕÅ¹úÀñÇëÎÊÄãÏÖÔÚÔÚÄÄ¶ù¹¤×÷,/content/Shanghainese-ASR/audio/,2.µÚ¶şÕn(Av69183512,P2)-16.wav
-"/content/Shanghainese-ASR/audio/2.µÚ¶şÕn(Av69183512,P2)-17.wav",ÎÒÈ¥Äê¿ªÊ¼µ½ÒÁÀû¹«Ë¾È¥ÁËÅµÕâÊÇÎÒµÄÃûÆ¬Äã¿ÉÒÔµ½Ê±´ú¹ã³¡À´ÕÒÎÒ,/content/Shanghainese-ASR/audio/,2.µÚ¶şÕn(Av69183512,P2)-17.wav
-"/content/Shanghainese-ASR/audio/2.µÚ¶şÕn(Av69183512,P2)-18.wav",Äã×¡ÔÚÄÄÒ»Â¥ÎÒ×¡8Â¥813ÓĞÊÂ¶ùÄãÏÈ´òµç»°À´ÁªÏµ°É,/content/Shanghainese-ASR/audio/,2.µÚ¶şÕn(Av69183512,P2)-18.wav
-"/content/Shanghainese-ASR/audio/2.µÚ¶şÕn(Av69183512,P2)-19.wav",ºÃºÃ½ñºó´ó¼ÒÊÇÅóÓÑÁË¶à¶à¹ØÕÕ²»±Ø¿ÍÆø´ó¼ÒºÏ×÷´ó¼ÒºÏ×÷,/content/Shanghainese-ASR/audio/,2.µÚ¶şÕn(Av69183512,P2)-19.wav
-"/content/Shanghainese-ASR/audio/3.µÚÈıÕn(Av69183512,P3)-02.wav",ÏÖÔÚÊ²Ã´Ê±ºò²îÎå·ÖÊ®µã,/content/Shanghainese-ASR/audio/,3.µÚÈıÕn(Av69183512,P3)-02.wav
-"/content/Shanghainese-ASR/audio/3.µÚÈıÕn(Av69183512,P3)-03.wav",ÄãÃÇÔ¼ºÃÔÚÊ²Ã´Ê±¼ä¼ûÃæÊ®µãÒ»¿Ì,/content/Shanghainese-ASR/audio/,3.µÚÈıÕn(Av69183512,P3)-03.wav
-"/content/Shanghainese-ASR/audio/3.µÚÈıÕn(Av69183512,P3)-04.wav",ÄÇ»¹ÓĞ¶şÊ®·ÖÖÓÄØÊ±¼äºÜ³äÔ£,/content/Shanghainese-ASR/audio/,3.µÚÈıÕn(Av69183512,P3)-04.wav
-"/content/Shanghainese-ASR/audio/3.µÚÈıÕn(Av69183512,P3)-05.wav",²»¹ıÎÒÒªµÈÒ»¸öµç»°Ê®µãÖÓÒÔºó´òÀ´,/content/Shanghainese-ASR/audio/,3.µÚÈıÕn(Av69183512,P3)-05.wav
-"/content/Shanghainese-ASR/audio/3.µÚÈıÕn(Av69183512,P3)-06.wav",ÄãÕæÊÇ¸ö´óÃ¦ÈË½ñÌìĞÇÆÚÒ»¾ÍÕâÃ´Ã¦,/content/Shanghainese-ASR/audio/,3.µÚÈıÕn(Av69183512,P3)-06.wav
-"/content/Shanghainese-ASR/audio/3.µÚÈıÕn(Av69183512,P3)-07.wav",ÊÇ°¡ÎÒ±ÈÄãÃ¦µÃ¶àÎÒÏÂÎçÒ»µã°ë»¹Òª¸Ïµ½´óÃû¹ã³¡È¥¿ªĞÂÎÅ·¢²¼»á,/content/Shanghainese-ASR/audio/,3.µÚÈıÕn(Av69183512,P3)-07.wav
-"/content/Shanghainese-ASR/audio/3.µÚÈıÕn(Av69183512,P3)-09.wav",Ğ¡ÍõÄãÊÇÄÄÄêÉúµÄÒ»¾ÅÆß¶şÄê,/content/Shanghainese-ASR/audio/,3.µÚÈıÕn(Av69183512,P3)-09.wav
-"/content/Shanghainese-ASR/audio/3.µÚÈıÕn(Av69183512,P3)-10.wav",ÄãµÄÉúÈÕÊÇ¼¸ÔÂ¼¸ÈÕ¶şÔÂÊ®¶şºÅÄãÄØ,/content/Shanghainese-ASR/audio/,3.µÚÈıÕn(Av69183512,P3)-10.wav
-"/content/Shanghainese-ASR/audio/3.µÚÈıÕn(Av69183512,P3)-11.wav",ÎÒ±ÈÄãĞ¡ËÄ¸öÔÂÎÒÊÇÆß¶şÄêÁùÔÂÊ®¾ÅºÅÉúµÄ,/content/Shanghainese-ASR/audio/,3.µÚÈıÕn(Av69183512,P3)-11.wav
-"/content/Shanghainese-ASR/audio/3.µÚÈıÕn(Av69183512,P3)-12.wav",½ñÌìÊÇÁùÔÂÊ®ÆßºÅºóÌìÊÇÄãµÄÉúÈÕ¶ÔÊÇÔÚºóÌì,/content/Shanghainese-ASR/audio/,3.µÚÈıÕn(Av69183512,P3)-12.wav
-"/content/Shanghainese-ASR/audio/3.µÚÈıÕn(Av69183512,P3)-13.wav",½ñÌìĞÇÆÚ¼¸ĞÇÆÚÎå,/content/Shanghainese-ASR/audio/,3.µÚÈıÕn(Av69183512,P3)-13.wav
-"/content/Shanghainese-ASR/audio/3.µÚÈıÕn(Av69183512,P3)-14.wav",ºóÌìÄØÕıºÃÊÇĞÇÆÚÌìºóÌìÍíÉÏÎÒÒ»¶¨µ½Äã¼ÒÀïÀ´×£ºØĞ»Ğ»,/content/Shanghainese-ASR/audio/,3.µÚÈıÕn(Av69183512,P3)-14.wav
-"/content/Shanghainese-ASR/audio/3.µÚÈıÕn(Av69183512,P3)-16.wav",½ñÌìÕæ³±ÊªÈËºÜÓôÃÆµÄ,/content/Shanghainese-ASR/audio/,3.µÚÈıÕn(Av69183512,P3)-16.wav
-"/content/Shanghainese-ASR/audio/3.µÚÈıÕn(Av69183512,P3)-17.wav",ÎÂ¶È½«Éıµ½34¶È»¹²»ËãÉÏº£×îÈÈµÄÌìÆøÄØ,/content/Shanghainese-ASR/audio/,3.µÚÈıÕn(Av69183512,P3)-17.wav
-"/content/Shanghainese-ASR/audio/3.µÚÈıÕn(Av69183512,P3)-18.wav",ÉÏº£ÏÄÌì×î¸ßÎÂ¶È¿Éµ½¶àÉÙ¶È°¡Òªµ½ÈıÊ®ÆßÈıÊ®°Ë¶È,/content/Shanghainese-ASR/audio/,3.µÚÈıÕn(Av69183512,P3)-18.wav
-"/content/Shanghainese-ASR/audio/3.µÚÈıÕn(Av69183512,P3)-19.wav",¶¬Ìì×îµÍÆøÎÂÄØ¿ÉÒÔµ½ÁãÏÂ5¶È6¶È,/content/Shanghainese-ASR/audio/,3.µÚÈıÕn(Av69183512,P3)-19.wav
-"/content/Shanghainese-ASR/audio/3.µÚÈıÕn(Av69183512,P3)-20.wav",ÉÏº£ÇïÌì×îÊæ·şÎÂ¶ÈÔÚ20¶È×óÓÒ²»Àä²»ÈÈÇï¸ßÆøË¬,/content/Shanghainese-ASR/audio/,3.µÚÈıÕn(Av69183512,P3)-20.wav
-"/content/Shanghainese-ASR/audio/3.µÚÈıÕn(Av69183512,P3)-21.wav",°¡ÏÖÔÚµ¹ÓĞµã·çÁËÉÔÎ¢Á¹¿ìµãÁËÏÖÔÚÊÇ¶àÔÆÌìÆøÔ¤±¨½²½ñÌì°øÍíÒªÏÂÀ×ÕóÓê,/content/Shanghainese-ASR/audio/,3.µÚÈıÕn(Av69183512,P3)-21.wav
-"/content/Shanghainese-ASR/audio/4.µÚËÄÕn(Av69183512,P4)-02.wav",ÇëÎÊµ½´óÊÀ½çÔõÃ´×ß,/content/Shanghainese-ASR/audio/,4.µÚËÄÕn(Av69183512,P4)-02.wav
-"/content/Shanghainese-ASR/audio/4.µÚËÄÕn(Av69183512,P4)-03.wav",±ÊÖ±ÏòÇ°×ß¿´µ½Ò»¸öËşĞÎµÄ½¨Öş¾ÍÊÇ,/content/Shanghainese-ASR/audio/,4.µÚËÄÕn(Av69183512,P4)-03.wav
-"/content/Shanghainese-ASR/audio/4.µÚËÄÕn(Av69183512,P4)-04.wav",ÄÇÃ´µ½ÈËÃñ¹«Ô°ÔõÃ´È¥,/content/Shanghainese-ASR/audio/,4.µÚËÄÕn(Av69183512,P4)-04.wav
-"/content/Shanghainese-ASR/audio/4.µÚËÄÕn(Av69183512,P4)-05.wav",Õâ¶ùÊÇÎ÷²ØÂ·½ğÁêÂ·¿ÚÄã´ÓÕâÀï¹ıÈ¥×ßµ½µÚËÄÌõºáÂíÂ·ÄÇ¶ù×ó¹ÕÍä¶ÔÂíÂ·×ß¹ıÈ¥Ò»µã¾Íµ½ÁË,/content/Shanghainese-ASR/audio/,4.µÚËÄÕn(Av69183512,P4)-05.wav
-"/content/Shanghainese-ASR/audio/4.µÚËÄÕn(Av69183512,P4)-06.wav",Å¶Ğ»Ğ»Äã,/content/Shanghainese-ASR/audio/,4.µÚËÄÕn(Av69183512,P4)-06.wav
-"/content/Shanghainese-ASR/audio/4.µÚËÄÕn(Av69183512,P4)-08.wav",ÇëÎÊ°²¸£Â·52ÅªÔÚÄÇÀï,/content/Shanghainese-ASR/audio/,4.µÚËÄÕn(Av69183512,P4)-08.wav
-"/content/Shanghainese-ASR/audio/4.µÚËÄÕn(Av69183512,P4)-09.wav",ÄãÏò¶«Ò»Ö±×ß¿´µ½ºìÂÌµÆ´©¹ıÂíÂ·ÔÙ×ß¹ıÈ¥Ò»µã¶ùÓĞÌõĞ¡ÂíÂ·Ïò±±¹ÕÍä×ßµ½µ×¾ÍÊÇ,/content/Shanghainese-ASR/audio/,4.µÚËÄÕn(Av69183512,P4)-09.wav
-"/content/Shanghainese-ASR/audio/4.µÚËÄÕn(Av69183512,P4)-10.wav",ÎÒÏëÄÇ¸ö´ó¾çÔºÈ¥,/content/Shanghainese-ASR/audio/,4.µÚËÄÕn(Av69183512,P4)-10.wav
-"/content/Shanghainese-ASR/audio/4.µÚËÄÕn(Av69183512,P4)-11.wav",ÄÇÊÇÂ·Í¦Ô¶µÄÄãµ½ÄÇ¶ù¹ÕÍä½ÇÉÏÈ¥×øµØÌú×øµ½ÈËÃñ¹ã³¡Õ¾³öÀ´µ½ÄÇ±ß¿ÉÄÜÒªÔÙÎÊ±ğÈË,/content/Shanghainese-ASR/audio/,4.µÚËÄÕn(Av69183512,P4)-11.wav
-"/content/Shanghainese-ASR/audio/4.µÚËÄÕn(Av69183512,P4)-13.wav",¶Ô²»Æğ90ºÅÔÚÄÄ¶ùÔÚÅªÌÃµÄ×îÀïÍ·,/content/Shanghainese-ASR/audio/,4.µÚËÄÕn(Av69183512,P4)-13.wav
-"/content/Shanghainese-ASR/audio/4.µÚËÄÕn(Av69183512,P4)-14.wav",ÇëÄã°ïÎÒÖ¸µãÒ»ÏÂ,/content/Shanghainese-ASR/audio/,4.µÚËÄÕn(Av69183512,P4)-14.wav
-"/content/Shanghainese-ASR/audio/4.µÚËÄÕn(Av69183512,P4)-15.wav",ÕâÌõÅªÌÃÒ»Ö±µ½µ×¿´µ½ÓĞ½¡ÉíÆ÷µÄµØ·½ÓÒ¹ÕÍäµ½µÚ¶şÅÅ·¿×ÓµÄµÚÈı¼Ò¾ÍÊÇÁË,/content/Shanghainese-ASR/audio/,4.µÚËÄÕn(Av69183512,P4)-15.wav
-"/content/Shanghainese-ASR/audio/5.µÚÎåÕn(Av69183512,P5)-02.wav",ÎÒÒòÎªÉÏ°àÊ±¼äÔçµ¥Î»ÀëµÃÔ¶Ã¿Ìì6µã°ë¾ÍÒªÆğÉí,/content/Shanghainese-ASR/audio/,5.µÚÎåÕn(Av69183512,P5)-02.wav
-"/content/Shanghainese-ASR/audio/5.µÚÎåÕn(Av69183512,P5)-03.wav",ÎÒÏ²»¶Ë¯µÃÍíÆğ³£³£9µãÆğÉí,/content/Shanghainese-ASR/audio/,5.µÚÎåÕn(Av69183512,P5)-03.wav
-"/content/Shanghainese-ASR/audio/5.µÚÎåÕn(Av69183512,P5)-04.wav",ÆğÀ´ÒÔºóµşºÃ±»×Ó¾ÍË¢ÑÀÏ´Á³ÔÙ³ÔÔç·¹ÓĞÊ±Ò»ÍëÏ¡·¹Ò»µã¶ù½´²Ë¼ÓÒ»¸ö¼¦µ°,/content/Shanghainese-ASR/audio/,5.µÚÎåÕn(Av69183512,P5)-04.wav
-"/content/Shanghainese-ASR/audio/5.µÚÎåÕn(Av69183512,P5)-05.wav",ÓĞÊ±ÊÇÁ½¿éÃæ°üÒ»±­Å£ÄÌÔÙÎ¢²¨Â¯Àï×ªÒ»ÏÂ,/content/Shanghainese-ASR/audio/,5.µÚÎåÕn(Av69183512,P5)-05.wav
-"/content/Shanghainese-ASR/audio/5.µÚÎåÕn(Av69183512,P5)-06.wav",ÎÒÊÇÊ±¼ä²»Ì«À´µÃ¼°Ö»ºÃ³öÃÅÂò´ó±ıÓÍÌõ»òÕßôÒ·¹ÍÅ¶¹½¬³Ô,/content/Shanghainese-ASR/audio/,5.µÚÎåÕn(Av69183512,P5)-06.wav
-"/content/Shanghainese-ASR/audio/5.µÚÎåÕn(Av69183512,P5)-07.wav",ÖĞÎç11µã°ëÎÒµ½µ¥Î»·¹Ìü³ÔÎç·¹,/content/Shanghainese-ASR/audio/,5.µÚÎåÕn(Av69183512,P5)-07.wav
-"/content/Shanghainese-ASR/audio/5.µÚÎåÕn(Av69183512,P5)-08.wav",ÎÒÃÇ³£³£×öµ½ÏÂÎç1µãºĞ·¹ÊÇËÍÉÏÀ´³ÔµÄ,/content/Shanghainese-ASR/audio/,5.µÚÎåÕn(Av69183512,P5)-08.wav
-"/content/Shanghainese-ASR/audio/5.µÚÎåÕn(Av69183512,P5)-09.wav",ºĞ·¹ÓĞ¼¸¸ö²ËÒ»°ãÊÇÁ½ËØÈı»ç,/content/Shanghainese-ASR/audio/,5.µÚÎåÕn(Av69183512,P5)-09.wav
-"/content/Shanghainese-ASR/audio/5.µÚÎåÕn(Av69183512,P5)-10.wav",ÎÒÃÇ·¹ÌüÀïÊÇÈÎÒâÂòµÄÖ»Òª°Ñ¿¨Ë¢Ò»ÏÂ¾Í¿ÉÒÔÁË,/content/Shanghainese-ASR/audio/,5.µÚÎåÕn(Av69183512,P5)-10.wav
-"/content/Shanghainese-ASR/audio/5.µÚÎåÕn(Av69183512,P5)-11.wav",ÎÒÃ¿ÌìÏÂÎç5µã°ëÏÂ°àÄã¼¸µã»Øµ½¼Ò,/content/Shanghainese-ASR/audio/,5.µÚÎåÕn(Av69183512,P5)-11.wav
-"/content/Shanghainese-ASR/audio/5.µÚÎåÕn(Av69183512,P5)-12.wav",ÎÒÒ²ÊÇ5µã°ëÏÂ°àÄÇÊ±ºòÉÏº£½»Í¨×îÓµ¼·³£³£Òª¶Â³µ»Øµ½¼ÒÀïÒª6µã°ëÒÑ¾­ºÜÀÛÁË,/content/Shanghainese-ASR/audio/,5.µÚÎåÕn(Av69183512,P5)-12.wav
-"/content/Shanghainese-ASR/audio/5.µÚÎåÕn(Av69183512,P5)-13.wav",ÄãÍíÉÏÔõÃ´¹ı°¡,/content/Shanghainese-ASR/audio/,5.µÚÎåÕn(Av69183512,P5)-13.wav
-"/content/Shanghainese-ASR/audio/5.µÚÎåÕn(Av69183512,P5)-14.wav",ÍíÉÏ¿´¿´Íí±¨¿´¿´µçÊÓÏ´¸öÔè¾ÍË¯¾õ,/content/Shanghainese-ASR/audio/,5.µÚÎåÕn(Av69183512,P5)-14.wav
-"/content/Shanghainese-ASR/audio/5.µÚÎåÕn(Av69183512,P5)-15.wav",ÎÒÍíÉÏ³£³£³öÈ¥ºÍÅóÓÑÒ»Æğ¾Û¾ÛÍæÍæ»ØÀ´,/content/Shanghainese-ASR/audio/,5.µÚÎåÕn(Av69183512,P5)-15.wav
-"/content/Shanghainese-ASR/audio/5.µÚÎåÕn(Av69183512,P5)-16.wav",ÔÙÉÏÉÏÍø·¢µãÓÊ¼şÒª¸ãµ½11µã°ë°É,/content/Shanghainese-ASR/audio/,5.µÚÎåÕn(Av69183512,P5)-16.wav
-"/content/Shanghainese-ASR/audio/5.µÚÎåÕn(Av69183512,P5)-18.wav",ÏÈÉúÄã¼ÒÀïÓĞ¼¸¸öÈË,/content/Shanghainese-ASR/audio/,5.µÚÎåÕn(Av69183512,P5)-18.wav
-"/content/Shanghainese-ASR/audio/5.µÚÎåÕn(Av69183512,P5)-19.wav",Ò»¹²Èı¸öÈËÎÒÆŞ×Ó¶ù×ÓºÍÎÒ,/content/Shanghainese-ASR/audio/,5.µÚÎåÕn(Av69183512,P5)-19.wav
-"/content/Shanghainese-ASR/audio/5.µÚÎåÕn(Av69183512,P5)-20.wav",Äã°Ö°ÖÂèÂè×¡ÄÄ¶ù,/content/Shanghainese-ASR/audio/,5.µÚÎåÕn(Av69183512,P5)-20.wav
-"/content/Shanghainese-ASR/audio/5.µÚÎåÕn(Av69183512,P5)-21.wav",ËûÃÇ¸úÎÒµÄÃÃÃÃ×¡Ò»ÆğÀëÎÒ¼Ò²»Ô¶Äã¿´´ÓÕâ¶ùÍûÈ¥¿´µÃµ½µÄ,/content/Shanghainese-ASR/audio/,5.µÚÎåÕn(Av69183512,P5)-21.wav
-"/content/Shanghainese-ASR/audio/5.µÚÎåÕn(Av69183512,P5)-22.wav",Äã·òÈËÔõÃ´ÕâÃ´Ã¦³£³£¿´µ½ËıºÜÍí»ØÀ´,/content/Shanghainese-ASR/audio/,5.µÚÎåÕn(Av69183512,P5)-22.wav
-"/content/Shanghainese-ASR/audio/5.µÚÎåÕn(Av69183512,P5)-23.wav",ÎÒÆŞ×ÓÊÇÖĞÑ§½ÌÊ¦´ø¸ßÖĞ±ÏÒµ°à,/content/Shanghainese-ASR/audio/,5.µÚÎåÕn(Av69183512,P5)-23.wav
-"/content/Shanghainese-ASR/audio/5.µÚÎåÕn(Av69183512,P5)-24.wav",Äã¼ÒÀïÂò²Ë×ö·¹Ï´ÒÂ¶¼ÊÇË­¸ÉµÃ,/content/Shanghainese-ASR/audio/,5.µÚÎåÕn(Av69183512,P5)-24.wav
-"/content/Shanghainese-ASR/audio/5.µÚÎåÕn(Av69183512,P5)-25.wav",Âò²Ë×ö·¹Ï´ÒÂµÄÊÂÎÒÃÇ²»×öÎÒÃÇÊÇÇëÖÓµã¹¤×öµÄ,/content/Shanghainese-ASR/audio/,5.µÚÎåÕn(Av69183512,P5)-25.wav
-"/content/Shanghainese-ASR/audio/5.µÚÎåÕn(Av69183512,P5)-26.wav",ÄãÈÏÎªÇëÖÓµã¹¤ºÍÇë±£Ä·ÄÄ¸öºÃ,/content/Shanghainese-ASR/audio/,5.µÚÎåÕn(Av69183512,P5)-26.wav
-"/content/Shanghainese-ASR/audio/5.µÚÎåÕn(Av69183512,P5)-27.wav",µ±È»ÇëÖÓµã¹¤±È½Ï·½±ã,/content/Shanghainese-ASR/audio/,5.µÚÎåÕn(Av69183512,P5)-27.wav
-"/content/Shanghainese-ASR/audio/5.µÚÎåÕn(Av69183512,P5)-28.wav",Äã¶ù×ÓÔÚ×öÊ²Ã´,/content/Shanghainese-ASR/audio/,5.µÚÎåÕn(Av69183512,P5)-28.wav
-"/content/Shanghainese-ASR/audio/5.µÚÎåÕn(Av69183512,P5)-29.wav",Ëû½ñÌìÔÚÕÒËû´òµÄÈíÅÌ¶«ÕÒÎ÷ÕÒÒ»ÔçÕÒµ½ÏÖÔÚ²»ÖªµÀ²ØÔÚÄÄ¶ùÕÒµÃÕıÃ¦×ÅÄØ,/content/Shanghainese-ASR/audio/,5.µÚÎåÕn(Av69183512,P5)-29.wav
-"/content/Shanghainese-ASR/audio/5.µÚÎåÕn(Av69183512,P5)-30.wav",¶¹¶¹°¡ÄãÎªÊ²Ã´²»°Ñ¶«Î÷ÕûÀíºÃÄØ,/content/Shanghainese-ASR/audio/,5.µÚÎåÕn(Av69183512,P5)-30.wav
-"/content/Shanghainese-ASR/audio/5.µÚÎåÕn(Av69183512,P5)-31.wav",ÏÂ´ÎÒªÑø³ÉºÃÏ°¹ß×Ô¼ºµÄ¶«Î÷±ğ¶«¶ªÎ÷ÈÓµÄ,/content/Shanghainese-ASR/audio/,5.µÚÎåÕn(Av69183512,P5)-31.wav
-"/content/Shanghainese-ASR/audio/6.µÚÁùÕn(Av69183512,P6)-02.wav",¶àÉÙÇ®Ò»½ïËÄÔªÎåÃ«Ò»½ïÍ¦±ãÒËµÄ³ÆÒ»µã°É,/content/Shanghainese-ASR/audio/,6.µÚÁùÕn(Av69183512,P6)-02.wav
-"/content/Shanghainese-ASR/audio/6.µÚÁùÕn(Av69183512,P6)-03.wav",ÕâÃ´¹óÈË¼ÒÖ»ÂôËÄÔªÒ»½ï,/content/Shanghainese-ASR/audio/,6.µÚÁùÕn(Av69183512,P6)-03.wav
-"/content/Shanghainese-ASR/audio/6.µÚÁùÕn(Av69183512,P6)-04.wav",±ğÏ¹Ëµ°¡Äã¿´ÎÒµÄÖñËñ²Ë´ÓÄàÀïÍÚ³öÀ´µÄÌØĞÂÏÊ¶Ì¶ÌµÄÊÇ²»ÊÇ,/content/Shanghainese-ASR/audio/,6.µÚÁùÕn(Av69183512,P6)-04.wav
-"/content/Shanghainese-ASR/audio/6.µÚÁùÕn(Av69183512,P6)-05.wav",ÊÇÂğÄÇ±ãÒËĞ©ĞĞÂğËÄÔªÒ»½ïËãÀ²,/content/Shanghainese-ASR/audio/,6.µÚÁùÕn(Av69183512,P6)-05.wav
-"/content/Shanghainese-ASR/audio/6.µÚÁùÕn(Av69183512,P6)-06.wav",²»ĞĞÎÒ²»ÄÜ×öÅâ±¾ÉúÒâ,/content/Shanghainese-ASR/audio/,6.µÚÁùÕn(Av69183512,P6)-06.wav
-"/content/Shanghainese-ASR/audio/6.µÚÁùÕn(Av69183512,P6)-07.wav",ºÃ°ÉºÃ°ÉÄã¸úÎÒ°ÑÖñËñºó¸ù¶çµôÒ»µã·ÖÁ¿Òª³Æ×ãºÃÀÕ,/content/Shanghainese-ASR/audio/,6.µÚÁùÕn(Av69183512,P6)-07.wav
-"/content/Shanghainese-ASR/audio/6.µÚÁùÕn(Av69183512,P6)-09.wav",½ñÌìÎÒÇë¿ÍÔÛÃÇÒ»Æğµ½ÍâÃæÈ¥³Ô·¹,/content/Shanghainese-ASR/audio/,6.µÚÁùÕn(Av69183512,P6)-09.wav
-"/content/Shanghainese-ASR/audio/6.µÚÁùÕn(Av69183512,P6)-10.wav",ºÃ°¡ÕÒÒ»¼Ò±ãÒËµã¶ùµÄ·¹µêÈ¥,/content/Shanghainese-ASR/audio/,6.µÚÁùÕn(Av69183512,P6)-10.wav
-"/content/Shanghainese-ASR/audio/6.µÚÁùÕn(Av69183512,P6)-11.wav",Ğ¡½ãµãĞ©Ê²Ã´²ËÄãÃÇÕâ¶ùÊ²Ã´²Ë×îÓĞÃû,/content/Shanghainese-ASR/audio/,6.µÚÁùÕn(Av69183512,P6)-11.wav
-"/content/Shanghainese-ASR/audio/6.µÚÁùÕn(Av69183512,P6)-12.wav",ÎÒÃÇÓĞ¸ö¿¾Èé¸ëºÜÄÛÏã¼«ÁË,/content/Shanghainese-ASR/audio/,6.µÚÁùÕn(Av69183512,P6)-12.wav
-"/content/Shanghainese-ASR/audio/6.µÚÁùÕn(Av69183512,P6)-13.wav",¾ÍÒª¸ö¿¾Èé¸ë°ÉÏÈÉúÄãÒªµã¶ùÊ²Ã´,/content/Shanghainese-ASR/audio/,6.µÚÁùÕn(Av69183512,P6)-13.wav
-"/content/Shanghainese-ASR/audio/6.µÚÁùÕn(Av69183512,P6)-14.wav",Òª¸öÇåÕôöåÓãÄã¿´ºÄÓÍÅ£ÈâºÃ»¹ÊÇ¿§à¬Å£ÈâºÃ,/content/Shanghainese-ASR/audio/,6.µÚÁùÕn(Av69183512,P6)-14.wav
-"/content/Shanghainese-ASR/audio/6.µÚÁùÕn(Av69183512,P6)-15.wav",ºÄÓÍÅ£Èâ°ÉÇà½·Å£ÍÜÒ²²»´íÔÙµãÒ»¸öÄ¢¹½²ËĞÄ,/content/Shanghainese-ASR/audio/,6.µÚÁùÕn(Av69183512,P6)-15.wav
-"/content/Shanghainese-ASR/audio/6.µÚÁùÕn(Av69183512,P6)-16.wav",ÌÀÒªëçóÆÏÊÌÀ,/content/Shanghainese-ASR/audio/,6.µÚÁùÕn(Av69183512,P6)-16.wav
-"/content/Shanghainese-ASR/audio/6.µÚÁùÕn(Av69183512,P6)-17.wav",ÎÒ¿´»ç²ËÌ«¶àÁË½Ğ¸öÒ°¾úÌÀËãÁË°É,/content/Shanghainese-ASR/audio/,6.µÚÁùÕn(Av69183512,P6)-17.wav
-"/content/Shanghainese-ASR/audio/6.µÚÁùÕn(Av69183512,P6)-19.wav",½ñÌì¼ÈÈ»µ½³ÇÚòÃí¾ÍÒª³¢³¢±¾µØĞ¡³ÔµÄÎ¶µÀÁË,/content/Shanghainese-ASR/audio/,6.µÚÁùÕn(Av69183512,P6)-19.wav
-"/content/Shanghainese-ASR/audio/6.µÚÁùÕn(Av69183512,P6)-20.wav",Õâ¶ùÄÏÏèÂøÍ·ÊÇ×î³öÃûµÄ,/content/Shanghainese-ASR/audio/,6.µÚÁùÕn(Av69183512,P6)-20.wav
-"/content/Shanghainese-ASR/audio/6.µÚÁùÕn(Av69183512,P6)-21.wav",ÌıËµÒ»¸ö¾«Æ·¼¦Ñ¼ÑªÌÀÏÊµÃ²»µÃÁËÁ¬Íâ¹úÔªÊ×¶¼À´³Ô¹ı,/content/Shanghainese-ASR/audio/,6.µÚÁùÕn(Av69183512,P6)-21.wav
-"/content/Shanghainese-ASR/audio/6.µÚÁùÕn(Av69183512,P6)-22.wav",ÄÇÊÇ»¹ÓĞÃæ½î°ÙÒ¶ÌÀ×î×îµØµÀ´º¾íÉÕÂô¿§à¬Å£Èâ·ÛË¿ÌÀ,/content/Shanghainese-ASR/audio/,6.µÚÁùÕn(Av69183512,P6)-22.wav
-"/content/Shanghainese-ASR/audio/6.µÚÁùÕn(Av69183512,P6)-23.wav",¹ğ»¨³à¶¹ÌÀÒ»Íëç§É´âÆâ½Æ¤¶ù±¡µÃÈâÒ²¿´µÃ¼û,/content/Shanghainese-ASR/audio/,6.µÚÁùÕn(Av69183512,P6)-23.wav
-"/content/Shanghainese-ASR/audio/6.µÚÁùÕn(Av69183512,P6)-24.wav",Äã½²µÃÎÒ²öËÀÁË,/content/Shanghainese-ASR/audio/,6.µÚÁùÕn(Av69183512,P6)-24.wav
-"/content/Shanghainese-ASR/audio/6.µÚÁùÕn(Av69183512,P6)-26.wav",ÉÏº£Õâ¸öµØ·½Îå·½ÔÓ´¦½­ÄÏ½­±±¸÷ÖÖĞ¡²Ë¶¼ÓĞÅëµ÷·½·¨Ò²ÑùÑù¾ãÈ«,/content/Shanghainese-ASR/audio/,6.µÚÁùÕn(Av69183512,P6)-26.wav
-"/content/Shanghainese-ASR/audio/6.µÚÁùÕn(Av69183512,P6)-27.wav",Äãµ¹ÊÇËµËµ¿´ÓĞĞ©Ê²Ã´×ö·¨,/content/Shanghainese-ASR/audio/,6.µÚÁùÕn(Av69183512,P6)-27.wav
-"/content/Shanghainese-ASR/audio/6.µÚÁùÕn(Av69183512,P6)-28.wav",Åµ»ğÍÈÒª¸ôË®ÕôµÃÏºÈÊÒªÒ»³´¾ÍÊ¢ÆğÀ´µÃ´øÓã¿ÉÒÔ¸É¼å¶¹°å¿ÉÓÍÙÛ,/content/Shanghainese-ASR/audio/,6.µÚÁùÕn(Av69183512,P6)-28.wav
-"/content/Shanghainese-ASR/audio/6.µÚÁùÕn(Av69183512,P6)-29.wav",Üú°×ÓÃÓÍìËÏÌ²ËìÔºÃÔÙ·ÅÌÀÅ£ÈâŸ¤ÁËÒÔºó»¹ÒªìÉÒ»»á¶ù¸òòÛ·ÅÔÚµ°ÀïìÀ,/content/Shanghainese-ASR/audio/,6.µÚÁùÕn(Av69183512,P6)-29.wav
-"/content/Shanghainese-ASR/audio/6.µÚÁùÕn(Av69183512,P6)-30.wav",ÎÒÖªµÀ´ÓÇ°»¹ÓĞÒ»ÖÖ¿UµÄ·½·¨×ö³öÒ»ÖÖÈâ½Ğ¿UÓÍÈâÉÏº£ÈËÕæ»á³Ô,/content/Shanghainese-ASR/audio/,6.µÚÁùÕn(Av69183512,P6)-30.wav
-"/content/Shanghainese-ASR/audio/6.µÚÁùÕn(Av69183512,P6)-31.wav",¹Ö²»µÃÉÏº£ÈËÏ²»¶³Ô¿ÏµÂ»ùÔ­À´ËûÃÇÒÔÇ°ìÀÆÖ¶«¼¦³Ô³Ô³öÀ´¸öñ«,/content/Shanghainese-ASR/audio/,6.µÚÁùÕn(Av69183512,P6)-31.wav
-"/content/Shanghainese-ASR/audio/6.µÚÁùÕn(Av69183512,P6)-32.wav",ÉÏº£ÈËÏÖÔÚÅÅ¶Ó³ÔÅûÈø±ıÒ²ĞíÊÇ´ÓĞ¡ÅÅ¶Ó³ÔÂ¯×ÓÀïºæ³öÀ´¸ö´ó±ı³Ô´óµÄ,/content/Shanghainese-ASR/audio/,6.µÚÁùÕn(Av69183512,P6)-32.wav
-"/content/Shanghainese-ASR/audio/6.µÚÁùÕn(Av69183512,P6)-33.wav",¸÷ÖÖÅëµ÷·¨´ó¼Ò¶¼»áÑ§¼¸ÖÖËùÒÔÉÏº£ÈËÒ»µ½ÍíÉÏ³£³£¿ÉÒÔÓÆÔÕÓÆÔÕ¶ã½øĞ¡Â¥,/content/Shanghainese-ASR/audio/,6.µÚÁùÕn(Av69183512,P6)-33.wav
-"/content/Shanghainese-ASR/audio/6.µÚÁùÕn(Av69183512,P6)-34.wav",Ò»±ßóÆ×ÅÌã°òÒ»±ßàÊ×ÅÂİÊ¨µÈµÈ,/content/Shanghainese-ASR/audio/,6.µÚÁùÕn(Av69183512,P6)-34.wav
+ï»¿path,text
+/content/Shanghainese-ASR/audio/G0004_0_S0002.wav,é—®æˆ‘æ”¾å­¦ä»¥åå’Œæˆ‘èµ°çš„é‚£äº›ç”·ç”Ÿæ˜¯è°
+/content/Shanghainese-ASR/audio/G0004_0_S0003.wav,ä½ ä¸æ˜¯é©¬æˆå¯¹å§
+/content/Shanghainese-ASR/audio/G0004_0_S0004.wav,æˆ‘ä¸ä¼šéšä¾¿è¯´æˆ‘çˆ±ä½ 
+/content/Shanghainese-ASR/audio/G0004_0_S0005.wav,å‘µå‘µå¾·æ±‡è‡³å°Šè‡³å°šçš„è­¦
+/content/Shanghainese-ASR/audio/G0004_0_S0006.wav,ç¡å‰åƒç‚¹ä¸œè¥¿æå­æœ‰å‡è‚¥åŠŸæ•ˆæ˜ç™½
+/content/Shanghainese-ASR/audio/G0004_0_S0007.wav,ä½ æ˜¯ä¸æ˜¯å¯¹æˆ‘ä¸æŠ¥æœ‰ä»»ä½•å¸Œæœ›
+/content/Shanghainese-ASR/audio/G0004_0_S0009.wav,ä½†ä¸æ•¢è¯´è¯å°±å«ä¸ªå°è€ä¹¡æ¥
+/content/Shanghainese-ASR/audio/G0004_0_S0010.wav,æ™šå®‰å¥½æƒ³äº²ä½ 
+/content/Shanghainese-ASR/audio/G0004_0_S0011.wav,èµ¶å¿«ç¡å§å‘µå‘µ
+/content/Shanghainese-ASR/audio/G0004_0_S0012.wav,æœ‰ç†ç”±æˆ‘å¿…é¡»å›å—
+/content/Shanghainese-ASR/audio/G0004_0_S0013.wav,æˆ‘æ˜¯æ¸…æ¥šåˆ«é—¹äº†æ’’æœ‰æ„ä¹‰å—
+/content/Shanghainese-ASR/audio/G0004_0_S0014.wav,æ˜¯281å°ä¿¡å§
+/content/Shanghainese-ASR/audio/G0004_0_S0015.wav,è€å…¬æˆ‘ç¡è§‰äº†æ™šå®‰æƒ³æˆ‘
+/content/Shanghainese-ASR/audio/G0004_0_S0017.wav,æˆ‘é™†é›ªè¿™æ˜¯æˆ‘æ‰‹æœº
+/content/Shanghainese-ASR/audio/G0004_0_S0018.wav,ä½ ä¸Šå·ä¸ºæ’’ä¸ç†æˆ‘
+/content/Shanghainese-ASR/audio/G0004_0_S0020.wav,èº«ä¸Šä¹Ÿæ²¡å¤šé’±äº†
+/content/Shanghainese-ASR/audio/G0004_0_S0021.wav,äºå˜›ä¸€ä¸‹å°±æƒ³åˆ°æ˜¯8å·å‘¢
+/content/Shanghainese-ASR/audio/G0004_0_S0022.wav,æˆ‘ç°åœ¨å°±åœ¨çº¢å±±
+/content/Shanghainese-ASR/audio/G0004_0_S0023.wav,ç¬¨è›‹ç¡äº†æ²¡æœ‰
+/content/Shanghainese-ASR/audio/G0004_0_S0024.wav,æˆ‘å›å»äº†å“¦ä½ ç¡æ²¡
+/content/Shanghainese-ASR/audio/G0004_0_S0026.wav,åˆ‡ä¸€ä¸ªå­—å°±æŠŠæˆ‘æ‰“å‘å’¯
+/content/Shanghainese-ASR/audio/G0004_0_S0028.wav,æå¨œæœ‰æ²¡æœ‰ç”·æœ‹å‹å•Š
+/content/Shanghainese-ASR/audio/G0004_0_S0029.wav,æ²¡æœ‰åœ¨åº“å¹²å—
+/content/Shanghainese-ASR/audio/G0004_0_S0031.wav,ä½ æ™šä¸Šæ˜¯ä¸æ˜¯æ²¡åƒé¥­
+/content/Shanghainese-ASR/audio/G0004_0_S0032.wav,å¿«æŠŠæ°´ä¹°æ¥æ’’
+/content/Shanghainese-ASR/audio/G0004_0_S0033.wav,é‚£æ˜¯æˆ‘æƒ³æ—©æ™¨ç¬¬ä¸€ä¸ªçœ‹åˆ°ä½ çš„ä¿¡æ¯
+/content/Shanghainese-ASR/audio/G0004_0_S0034.wav,æˆ‘ä»¥å‰ä»æ¥æ²¡æœ‰è¿™æ ·è¿‡
+/content/Shanghainese-ASR/audio/G0004_0_S0035.wav,å™¢ä½ å›°äº†å—
+/content/Shanghainese-ASR/audio/G0004_0_S0036.wav,æ™šå®‰äº†
+/content/Shanghainese-ASR/audio/G0004_0_S0037.wav,å˜¿å˜¿æ€§æ ¼æˆ‘å–œæ¬¢æˆ‘ç£•ç¡äº†ä½ å‘¢
+/content/Shanghainese-ASR/audio/G0004_0_S0038.wav,åˆ«ç¦»å¼€æˆ‘åˆ«ä¼¤å®³æˆ‘
+/content/Shanghainese-ASR/audio/G0004_0_S0039.wav,ç¬¨è›‹æ­£æ˜¯å› ä¸ºä»Šå¹´ç¥¨ç´§å¼ æ‰è¿™æ ·ä¹°çš„
+/content/Shanghainese-ASR/audio/G0004_0_S0040.wav,ä»¥åå°±å¯ä»¥äº†
+/content/Shanghainese-ASR/audio/G0004_0_S0041.wav,ä½ ä¸é£20å·ç›´æ¥å°±å›æ¥äº†
+/content/Shanghainese-ASR/audio/G0004_0_S0042.wav,ä¸å¥½æ„æ€æˆ‘åœ¨æ´—æ¾¡
+/content/Shanghainese-ASR/audio/G0004_0_S0043.wav,ç¥ç»æˆ‘å‘è§‰ä½ çš„å£æ‰è¶Šæ¥è¶Šå¥½äº†
+/content/Shanghainese-ASR/audio/G0004_0_S0044.wav,æœ‰ç‚¹å½“å§çš„ä½ ä¸é€éœ²ä¸€ä¸‹
+/content/Shanghainese-ASR/audio/G0004_0_S0045.wav,è¡Œäº†ä½ å¥½è‡ªä¸ºä¹‹å§ä½ è‡ªå·±çœ‹ç€åŠå§
+/content/Shanghainese-ASR/audio/G0004_0_S0046.wav,æ—©ç‚¹ç¡è§‰æ³¨æ„ä¼‘æ¯å“¦
+/content/Shanghainese-ASR/audio/G0004_0_S0047.wav,çœ‹äº†å§ä¸çŸ¥é“
+/content/Shanghainese-ASR/audio/G0004_0_S0048.wav,å¥½æ— æƒ…ä½ æ‡‚æˆ‘çš„å¿ƒæ˜¯ä½•æ„Ÿå—éº½
+/content/Shanghainese-ASR/audio/G0004_0_S0049.wav,è¯´å•¥å‘¢è‡ªå·±å€’çœ‰å‘—
+/content/Shanghainese-ASR/audio/G0004_0_S0051.wav,è®¨åŒå¤¸ä¸€ä¸‹äººå®¶ä¼šæ˜¯æ€æ ·å“¦
+/content/Shanghainese-ASR/audio/G0004_0_S0052.wav,é™ˆè¥¿ä½ æ€ä¹ˆç¡ä¸ç€å•Š
+/content/Shanghainese-ASR/audio/G0004_0_S0054.wav,æˆ‘ä»¬è¿˜æ˜¯æˆ‘ä»¬
+/content/Shanghainese-ASR/audio/G0004_0_S0055.wav,ç”¨æˆ‘çš„ä¸€ç”Ÿç–¼ä½ çˆ±ä½ 
+/content/Shanghainese-ASR/audio/G0004_0_S0056.wav,æ©åˆšåœ¨å¿™è¿‡çš„è¿˜å¥½ä½ å‘¢
+/content/Shanghainese-ASR/audio/G0004_0_S0057.wav,åˆ˜æ³¢çœŸä¸åœ¨ä½ é‚£å—
+/content/Shanghainese-ASR/audio/G0004_0_S0058.wav,ä½ èµ¶å¿«ç¡è§‰åˆ«æ˜¯é
+/content/Shanghainese-ASR/audio/G0004_0_S0060.wav,æˆ‘åœ¨åŸä¸‰å¡ä¸‰ä½ å¿«æ¥å•Š
+/content/Shanghainese-ASR/audio/G0004_0_S0061.wav,æˆ‘å°±çŸ¥é“ä½ ä¼šåšåˆ°çš„
+/content/Shanghainese-ASR/audio/G0004_0_S0062.wav,å¿ƒè®¤çš„é—®é¢˜æˆ‘ä¸æƒ³é’±çš„
+/content/Shanghainese-ASR/audio/G0004_0_S0063.wav,æ¸…é™çš„é£å¸¦èµ°å¿ƒä¸­æ‰€æœ‰
+/content/Shanghainese-ASR/audio/G0004_0_S0064.wav,æˆ‘ä¹Ÿä¸èƒ½ä¸ä¸Šç­ç»™ä½ é€å»å§
+/content/Shanghainese-ASR/audio/G0004_0_S0065.wav,æˆ‘ç»™ä½ å¥½å¥½è¯´ä¹ˆ
+/content/Shanghainese-ASR/audio/G0004_0_S0067.wav,æˆ‘ç¡è§‰äº†ä½ æ…¢æ…¢è·‘è½¦å§
+/content/Shanghainese-ASR/audio/G0004_0_S0068.wav,æˆ‘ç°åœ¨å‡ºä¸å»ä½ åˆ«æ‹¿è¿™ä¸ªè¯´äº‹
+/content/Shanghainese-ASR/audio/G0004_0_S0069.wav,å“¦æˆ‘ä¹Ÿåˆšèººä¸‹
+/content/Shanghainese-ASR/audio/G0004_0_S0070.wav,è¿™ä¸ªå–å‹¾å­æ‰”çš„å…¨æ˜¯ç¡¬å¸
+/content/Shanghainese-ASR/audio/G0004_0_S0071.wav,å˜¿å˜¿ä¿ºæ˜å¤©ä¹Ÿè¦æ—©èµ·å»å…¬å¸å¥½å¥½ç¡
+/content/Shanghainese-ASR/audio/G0004_0_S0072.wav,ä½ ä»¬éƒ½å¥½å§
+/content/Shanghainese-ASR/audio/G0004_0_S0073.wav,è‹±å­å¾ˆæƒ³è§ä½ ä½ æœ‰ç©ºæ—¶æ‰“ç”µè¯
+/content/Shanghainese-ASR/audio/G0004_0_S0074.wav,åˆšæ‰ä»åŒ»é™¢å›æ¥
+/content/Shanghainese-ASR/audio/G0004_0_S0075.wav,å²è€å¸ˆæ‚¨å¥½
+/content/Shanghainese-ASR/audio/G0004_0_S0076.wav,æ²¡å•Šä½ ç»™è°æ‰“ç”µè¯çš„å‘¢
+/content/Shanghainese-ASR/audio/G0004_0_S0079.wav,åœ¨å¹²å—å‘¢è¿™ä¸¤å¤©ä¹Ÿä¸ä¸Šç½‘è¿‡çš„å¥½å—
+/content/Shanghainese-ASR/audio/G0004_0_S0080.wav,å‚»ç“œä½ çœŸæ˜¯åˆç¬¨åˆå¯æ°”åˆè®©äººçˆ±çš„å¤§çŒªå¤´
+/content/Shanghainese-ASR/audio/G0004_0_S0081.wav,æ²¡åŠæ³•æˆ‘ä»¬ç°åœ¨åªæœ‰å¿äº†
+/content/Shanghainese-ASR/audio/G0004_0_S0082.wav,ä»–ç»™ä½ æ‰“è¿‡ç”µè¯å—
+/content/Shanghainese-ASR/audio/G0004_0_S0083.wav,ä½ æ™šä¸Šä¸å›äº†å—
+/content/Shanghainese-ASR/audio/G0004_0_S0084.wav,åˆ«è¡¥äº†ç´¯äº†ä¸€å¤©æ—©ç‚¹ç¡å§æˆ‘è¿˜èƒ½ç­‰
+/content/Shanghainese-ASR/audio/G0004_0_S0085.wav,æˆ‘ä»¬æ˜¯ç”Ÿæ´»åœ¨ç°å®ä¸­çš„äºº
+/content/Shanghainese-ASR/audio/G0004_0_S0086.wav,å¹²æ´»ç´¯ä¸ç´¯å•Š
+/content/Shanghainese-ASR/audio/G0004_0_S0087.wav,æ²¡æœ‰å“¥åˆšå–Šæˆ‘æœ‰äº‹
+/content/Shanghainese-ASR/audio/G0004_0_S0088.wav,æ©ä¹ˆäº‹å¹²å°±éƒ½å›äº†å•Š
+/content/Shanghainese-ASR/audio/G0004_0_S0089.wav,è„‘å­éƒ½ä¸å¤Ÿç”¨äº†
+/content/Shanghainese-ASR/audio/G0004_0_S0090.wav,æˆ‘éƒ½ä¸€å‘¨æ²¡æœ‰ç™»ä¸Šè¿‡äº†
+/content/Shanghainese-ASR/audio/G0004_0_S0091.wav,ä½ ä¸ä¼šçœŸçš„å–œæ¬¢ä¸Šäº†æˆ‘å§
+/content/Shanghainese-ASR/audio/G0004_0_S0092.wav,æ˜æ—©æœ‰è¯¾ç¡äº†æ™šå®‰
+/content/Shanghainese-ASR/audio/G0004_0_S0094.wav,ä»–ä¹Ÿå–çš„å‘¢
+/content/Shanghainese-ASR/audio/G0004_0_S0096.wav,æœ‰äº‹å—åˆšæ‰å‡ºå»æºœå¹¿åœº
+/content/Shanghainese-ASR/audio/G0004_0_S0097.wav,æ‚å‹’è¯´å§
+/content/Shanghainese-ASR/audio/G0004_0_S0098.wav,ä½ çŒç¡å°±æ—©è·Ÿæˆ‘è¯´å˜›
+/content/Shanghainese-ASR/audio/G0004_0_S0099.wav,ä½ äºŒåå·å°±å›æ¥äº†æ²¡å‡ å¤©äº†å—
+/content/Shanghainese-ASR/audio/G0004_0_S0100.wav,ä½†éƒ½æ˜¯å¦ˆå¦ˆä¸€èµ·
+/content/Shanghainese-ASR/audio/G0004_0_S0101.wav,ç¡ä¸ç€å“¦å’‹åŠ
+/content/Shanghainese-ASR/audio/G0004_0_S0102.wav,è¿™ä¹ˆæ—©å•Šé‚£å²‚ä¸æ˜¯å¿«äº†
+/content/Shanghainese-ASR/audio/G0004_0_S0103.wav,åˆ«å¿˜äº†æŠŠæ„Ÿå†’è¯åƒä¸Š
+/content/Shanghainese-ASR/audio/G0004_0_S0104.wav,æˆ‘æ‰èˆä¸å¾—ç”¨åŠ›æå‘¢
+/content/Shanghainese-ASR/audio/G0004_0_S0106.wav,ç¡è§‰äº†æ²¡æœ‰æ­»ä¸«å¤´
+/content/Shanghainese-ASR/audio/G0004_0_S0107.wav,å½“ç„¶æƒ³äº†åœæƒ³èƒ½å‘ä¿¡ç»™ä½ éº½
+/content/Shanghainese-ASR/audio/G0004_0_S0108.wav,éƒ½ç¡äº†æœ‰äº‹å•Šç»™ä½ æ‰“ç”µè¯ä½ ä¹Ÿä¸æ¥
+/content/Shanghainese-ASR/audio/G0004_0_S0109.wav,ä½ ç«™åœ¨å§å®¤çš„çª—æˆ·æˆ‘å°±çœ‹è§ä½ äº†
+/content/Shanghainese-ASR/audio/G0004_0_S0111.wav,äººç¥ä½ æ°¸è¿œå¿«ä¹ä½ çš„å¿«ä¹æ˜¯æˆ‘çš„å¹¸ç¦
+/content/Shanghainese-ASR/audio/G0004_0_S0112.wav,è¿™æ ·å•Šå‘µå‘µå’Œä½ åŒæ¡Œå¤„çš„å’‹æ ·
+/content/Shanghainese-ASR/audio/G0004_0_S0113.wav,ä½ å›æ¥çš„è·¯ä¸Šè‡ªå·±æ³¨æ„ç‚¹
+/content/Shanghainese-ASR/audio/G0004_0_S0114.wav,å›å»ä¸äº†ç»™æˆ‘è¯´å£°
+/content/Shanghainese-ASR/audio/G0004_0_S0115.wav,æˆ‘è¦åšç¬¬ä¸€
+/content/Shanghainese-ASR/audio/G0004_0_S0117.wav,å‘µå‘µæ²¡äº‹ä¸æ€ªä½ è°¢è°¢
+/content/Shanghainese-ASR/audio/G0004_0_S0118.wav,å“ˆå“ˆå“ˆå“ˆå¤§ç¬‘
+/content/Shanghainese-ASR/audio/G0004_0_S0119.wav,æˆ‘ç¡ä¸ç€è¿‡ä¼šç¡è·Ÿä½ è¯´ä¼šè¯
+/content/Shanghainese-ASR/audio/G0004_0_S0120.wav,çœ‹ä½ æ€ä¹ˆå­¦çš„
+/content/Shanghainese-ASR/audio/G0004_0_S0121.wav,èªä¹Ÿä¸€æ ·å‘¢
+/content/Shanghainese-ASR/audio/G0004_0_S0122.wav,ä½ ä»Šå¤©ä¹Ÿä¸å’‹ç†æˆ‘
+/content/Shanghainese-ASR/audio/G0004_0_S0123.wav,å“ˆå“ˆå¥‡è¿™æ®µæ—¶é—´å‹åŠ›çœŸçš„å¥½å¤§å‘€
+/content/Shanghainese-ASR/audio/G0004_0_S0124.wav,ä¸è¡Œä½ å¿«ç‚¹è¦ä¸ç„¶ä¸ç†ä½ äº†
+/content/Shanghainese-ASR/audio/G0004_0_S0125.wav,æˆ‘åªä¼šè®©ä½ å€’è´´ä¸ä¼šä¸ºä½ ä»˜å‡º
+/content/Shanghainese-ASR/audio/G0004_0_S0127.wav,ä¸è®¸åæ‚”ä½ æ˜¯æˆ‘çš„ä½ è¦å›å’Œæˆ‘ä¸€èµ·
+/content/Shanghainese-ASR/audio/G0004_0_S0128.wav,æˆ‘è¯´è¯å¤ªä¼¤äººäº†
+/content/Shanghainese-ASR/audio/G0004_0_S0129.wav,åˆ‡æ‰¾å‹’æ²¡å¥½ç©çš„å°±åˆæ¢æˆ‘äº†æ˜¯å§
+/content/Shanghainese-ASR/audio/G0004_0_S0130.wav,ä¸€ä¸ªäººä½ åœ¨ä¹Œå¸‚å—
+/content/Shanghainese-ASR/audio/G0004_0_S0131.wav,æˆ‘å°±è¯´å¯ä»¥å•Š
+/content/Shanghainese-ASR/audio/G0004_0_S0132.wav,æˆ‘è§‰çš„æˆ‘å¯¹ä½ å’Œå¥¹ä¸€æ ·
+/content/Shanghainese-ASR/audio/G0004_0_S0133.wav,çŒªä½ æ²¡å–å¤šå§
+/content/Shanghainese-ASR/audio/G0004_0_S0135.wav,å”‰çœ‹å§ä¸€ç¦»å¼€æˆ‘å°±ç—…
+/content/Shanghainese-ASR/audio/G0004_0_S0136.wav,åˆ«äººæ˜¯ä¹ˆæœ‰æœºä¼šçš„å•Š
+/content/Shanghainese-ASR/audio/G0004_0_S0137.wav,å‘µå‘µä½ æ¥æˆ‘è¿™æ€ä¹ˆæ ·
+/content/Shanghainese-ASR/audio/G0004_0_S0138.wav,åˆšæ‰ä¸æ˜¯åœ¨ä¸Šç½‘å—
+/content/Shanghainese-ASR/audio/G0004_0_S0139.wav,æˆ‘æ²¡æœ‰éª—ä½ ä»Šå¹´å‰é¢çœŸçš„ä¸å¤ªå¥½
+/content/Shanghainese-ASR/audio/G0004_0_S0140.wav,è€å©†å›çŸ­ä¿¡å—å›ç”µè¯å—
+/content/Shanghainese-ASR/audio/G0004_0_S0141.wav,å¼ºç¡å‹’éº½
+/content/Shanghainese-ASR/audio/G0004_0_S0142.wav,è¦æ˜¯ä»–æ”¾å‡ä¹Ÿæ™šæˆ‘ä»¬å°±ä¸€èµ·å›å§
+/content/Shanghainese-ASR/audio/G0004_0_S0143.wav,ç°åœ¨å·²ç»å®Œäº†æ‰‹æœºç”µå……æ»¡äº†æ²¡æœ‰
+/content/Shanghainese-ASR/audio/G0004_0_S0144.wav,æ²¡æœ‰æˆ‘æ²¡é‚£ä¹ˆå¤§ç²¾ç¥
+/content/Shanghainese-ASR/audio/G0004_0_S0145.wav,ç¥ä½ æ™šå®‰åšä¸ªå¥½æ¢¦å“¦
+/content/Shanghainese-ASR/audio/G0004_0_S0146.wav,æœ‰äººç»™èªæ‰“ç”µè¯éº½
+/content/Shanghainese-ASR/audio/G0004_0_S0147.wav,ä½ åœ¨å¹²å—å‘¢å•Šåœ¨çœ‹ç”µè§†å—
+/content/Shanghainese-ASR/audio/G0004_0_S0148.wav,å‘µå‘µå‚»ç“œæˆ‘çŸ¥é“ç´¯äº†å°±ç¡å§
+/content/Shanghainese-ASR/audio/G0004_0_S0149.wav,å‘µæ˜¯è¢«æˆ‘ç‰µç€å¿ƒèµ°çš„ç”·äºº
+/content/Shanghainese-ASR/audio/G0004_0_S0150.wav,åœ¨åšé¢˜å—æœ‰æ²¡æœ‰æƒ³å¤§å‚»
+/content/Shanghainese-ASR/audio/G0004_0_S0151.wav,æˆ‘åˆ°å®¶äº†ç¬¬ç¬¬çŸ¥é“äº†æ²¡æœ‰
+/content/Shanghainese-ASR/audio/G0004_0_S0152.wav,ä¸ºä»€ä¹ˆä¼šé—®æˆ‘ä»¬ä»¥åå‘¢
+/content/Shanghainese-ASR/audio/G0004_0_S0153.wav,é«˜å…„ä½ çŸ¥é“åˆ˜ç£Šç”µè¯ä¸
+/content/Shanghainese-ASR/audio/G0004_0_S0154.wav,è€å…¬æˆ‘ç»™ä½ æ‰“ä¸¤æ¬¡ç”µè¯ä½ ä¸ºä»€ä¹ˆä¸æ¥
+/content/Shanghainese-ASR/audio/G0004_0_S0155.wav,ä½ ä¸ç®¡ä¸è®¸ç»™æˆ‘æ‰“ç”µè¯
+/content/Shanghainese-ASR/audio/G0004_0_S0156.wav,è¯·é—®ä½ å§å§å›æ¥äº†å—
+/content/Shanghainese-ASR/audio/G0004_0_S0157.wav,ä½ å¥½å¿™ä»€ä¹ˆå•Š
+/content/Shanghainese-ASR/audio/G0004_0_S0158.wav,æˆ‘ä¹Ÿå¾ˆç€æ€¥å‘¢
+/content/Shanghainese-ASR/audio/G0004_0_S0160.wav,å·±ä¿é‡åšä¸ªå¥½æ¢¦
+/content/Shanghainese-ASR/audio/G0004_0_S0161.wav,å¥½å§ç¡è§‰æ™šå®‰å¥½æƒ³æŠ±æŠ±ä½ å”‰
+/content/Shanghainese-ASR/audio/G0004_0_S0162.wav,ä¸æ˜¯å§æˆ‘å¬åˆ«äººè¯´ä½ ä¿©å…³ç³»ä¸ä¸€èˆ¬å•Š
+/content/Shanghainese-ASR/audio/G0004_0_S0163.wav,ä½ ä¹Ÿè¯´è¿‡è®©æˆ‘ç­‰ä½ ä½ ä¼šæ¥å®ç°å®ƒçš„
+/content/Shanghainese-ASR/audio/G0004_0_S0164.wav,ä½ å°±å¿«å›å®¶å§
+/content/Shanghainese-ASR/audio/G0004_0_S0165.wav,ä½ åˆ«æ„ä¸ºä½ æ˜¯ç‹¬ä¸€æ— äºŒ
+/content/Shanghainese-ASR/audio/G0004_0_S0166.wav,åˆ‡æœ¬å°å§ç‹¬èº«ä¸»ä¹‰è€…
+/content/Shanghainese-ASR/audio/G0004_0_S0167.wav,ä»Šå¤©æ™šä¸Šæ¥ä¸æ¥
+/content/Shanghainese-ASR/audio/G0004_0_S0168.wav,æ˜ŸæœŸäº”å¯ä»¥è§å˜›
+/content/Shanghainese-ASR/audio/G0004_0_S0169.wav,æˆ‘åŠªåŠ›çº æ­£
+/content/Shanghainese-ASR/audio/G0004_0_S0170.wav,ä¸€ä¸­åˆéƒ½æ²¡ç¡è§‰
+/content/Shanghainese-ASR/audio/G0004_0_S0171.wav,çœ‹æ¥æˆ‘å¤šæƒ³äº†åˆè‡ªä½œå¤šæƒ…äº†
+/content/Shanghainese-ASR/audio/G0004_0_S0172.wav,ä¼‘æ¯å§æ™šå®‰æƒ³ä½ 
+/content/Shanghainese-ASR/audio/G0004_0_S0173.wav,æˆ‘è‚šå­è¶…ç–¼éƒ½å¿«çª’æ¯äº†
+/content/Shanghainese-ASR/audio/G0004_0_S0174.wav,æ©å¥½çš„é‚£æ˜å¤©åœ¨è”ç³»æ™šå®‰
+/content/Shanghainese-ASR/audio/G0004_0_S0175.wav,è‡ªå·±èº«ä½“ä¸å¥½è¿˜ä¸ä¹–å—
+/content/Shanghainese-ASR/audio/G0004_0_S0176.wav,å¥½äº†å»å¿™å§åˆ«å›äº†
+/content/Shanghainese-ASR/audio/G0004_0_S0178.wav,å¼ å”è¿˜å¥½å—
+/content/Shanghainese-ASR/audio/G0004_0_S0179.wav,æ™“å¤œé‚£ä¹ˆä¸¤äººåå…ƒ
+/content/Shanghainese-ASR/audio/G0004_0_S0180.wav,æ˜¯å˜›é‚£æˆ‘å›æ¥æ‰¾ä½ 
+/content/Shanghainese-ASR/audio/G0004_0_S0181.wav,æˆ‘ä¸è®°å¾—æ˜¯ä»€ä¹ˆäº‹äº†
+/content/Shanghainese-ASR/audio/G0004_0_S0182.wav,æ‰€ä»¥å•Šéª—äººéƒ½ä¸å¥½æ„æ€äº†
+/content/Shanghainese-ASR/audio/G0004_0_S0183.wav,æ‹£äº†ä¸‰åƒå¤šæ—¶æˆ‘è¿˜æ˜¯åƒä¸‰å—çš„é¢
+/content/Shanghainese-ASR/audio/G0004_0_S0185.wav,è¿™ç‚¹æœºä¼šä¹Ÿå¯èƒ½æ²¡æœ‰
+/content/Shanghainese-ASR/audio/G0004_0_S0186.wav,å¥½è°¢è°¢ä½ æœ‰ç©ºè¯·ä½ åƒé¥­
+/content/Shanghainese-ASR/audio/G0004_0_S0188.wav,æƒ³ä½ å‘€è¿˜èƒ½å¹²å—
+/content/Shanghainese-ASR/audio/G0004_0_S0189.wav,è’½ä½ å¿«ä¼‘æ¯å§
+/content/Shanghainese-ASR/audio/G0004_0_S0191.wav,æ©ä½ æ€ä¹ˆäº†
+/content/Shanghainese-ASR/audio/G0004_0_S0192.wav,æ™šå®‰ä½ ä¹Ÿæ˜¯ç¡å¥½æ¢¦
+/content/Shanghainese-ASR/audio/G0004_0_S0193.wav,é‚£ä½ æ˜å¹´å›æ¥çš„æ—¶å€™ä¼°è®¡ä¼šå«äº†
+/content/Shanghainese-ASR/audio/G0004_0_S0194.wav,ä½ æ··ä¸ä¸Šäº†
+/content/Shanghainese-ASR/audio/G0004_0_S0195.wav,ç­‰ç€å§åœ¨ä¸ç®¡ä½ äº†
+/content/Shanghainese-ASR/audio/G0004_0_S0196.wav,é‚£ä¼šåƒäº†ä¸ªå‡‰çš®æ„Ÿè§‰å¥½ç´¯å¤´ç–¼
+/content/Shanghainese-ASR/audio/G0004_0_S0197.wav,æˆ‘è¿˜è¦çœ‹åˆ°ä»Šæ™šæˆ‘ç»™ä½ å‘çš„çŸ­ä¿¡
+/content/Shanghainese-ASR/audio/G0004_0_S0198.wav,çœ‹å¥¹ä»¬å¹²å•¥
+/content/Shanghainese-ASR/audio/G0004_0_S0201.wav,æ€ä¹ˆä¼šå˜è€å‘¢
+/content/Shanghainese-ASR/audio/G0004_0_S0202.wav,æ€ä¹ˆä½ åˆä¸ç®¡è€å©†äº†ä¹ˆ
+/content/Shanghainese-ASR/audio/G0004_0_S0203.wav,æ€ä¹ˆè¿˜ä¸å›å®¶
+/content/Shanghainese-ASR/audio/G0004_0_S0204.wav,æœ‹å‹åŒ…æ‹¬å¥½å¤š
+/content/Shanghainese-ASR/audio/G0004_0_S0206.wav,æˆ‘æ—©ç¡ä¸‹äº†
+/content/Shanghainese-ASR/audio/G0004_0_S0207.wav,èç°åœ¨å°±æ¥è®©æˆ‘ç–¼ä½ çˆ±ä½ å¥½å—
+/content/Shanghainese-ASR/audio/G0004_0_S0208.wav,çœ‹æ¥æ˜¯æ²¡æœºä¼šçš„
+/content/Shanghainese-ASR/audio/G0004_0_S0209.wav,æˆ‘ä»¥ä¸ºä½ ä¸å›æˆ‘ä¿¡æ¯æˆ‘å“­äº†ä½ ä¿¡å—
+/content/Shanghainese-ASR/audio/G0004_0_S0210.wav,ä»€ä¹ˆæ—¶å€™å‘é’±è¿˜æœ‰å‡ å¤©
+/content/Shanghainese-ASR/audio/G0004_0_S0211.wav,æˆ‘ç°åœ¨è¯­æ— è®ºæ¬¡
+/content/Shanghainese-ASR/audio/G0004_0_S0212.wav,å®è´è¸¢ä½ äº†å—å…¨èº«ä»€ä¹ˆæ—¶ä¾¯éš¾å—çš„
+/content/Shanghainese-ASR/audio/G0004_0_S0213.wav,å®è´æ€ä¹ˆä¸å–ç‰›å¥¶å‘€
+/content/Shanghainese-ASR/audio/G0004_0_S0214.wav,æƒ³æƒ³å¥½ç©è¯´ä¸€å¥è¯å°±æ˜è¿‡å»äº†
+/content/Shanghainese-ASR/audio/G0004_0_S0215.wav,èœ‚èœœæ°´è§£é…’å‘¢
+/content/Shanghainese-ASR/audio/G0004_0_S0216.wav,ä½ æ¥ç€ç¡å§
+/content/Shanghainese-ASR/audio/G0004_0_S0217.wav,ç°åœ¨å¹²æ’’çš„å‘¢
+/content/Shanghainese-ASR/audio/G0004_0_S0218.wav,æˆ‘ä¸é™ªä½ è°é™ªä½ 
+/content/Shanghainese-ASR/audio/G0004_0_S0219.wav,çœŸæ˜¯ä½©æœé‚£äº›å­¦ä¿¡æ¯çš„
+/content/Shanghainese-ASR/audio/G0004_0_S0221.wav,ä¸è¯´å•Šè®¨åŒæ­»äº†
+/content/Shanghainese-ASR/audio/G0004_0_S0223.wav,è¿™ä¹Ÿæœ‰é”™å•Š
+/content/Shanghainese-ASR/audio/G0004_0_S0224.wav,æˆ‘è¿˜ä»¥ä¸ºä½ è¯´æˆ‘ä»¬ä¸€èµ·ç¡å‘¢
+/content/Shanghainese-ASR/audio/G0004_0_S0225.wav,äº²çˆ±çš„ä¹Ÿè¦æ‰¾æ—¶é—´é™ªæˆ‘é“ª
+/content/Shanghainese-ASR/audio/G0004_0_S0226.wav,ä»¥åç¡è§‰çš„æ—¶å€™æˆ‘æœ‰åŠ²å•Š
+/content/Shanghainese-ASR/audio/G0004_0_S0227.wav,å—¯å…³ç³»ä¸ä¸€èˆ¬å˜›
+/content/Shanghainese-ASR/audio/G0004_0_S0228.wav,æˆ‘å¾ˆå¥½ä½ æ˜¯è°
+/content/Shanghainese-ASR/audio/G0004_0_S0229.wav,å°±ä¸€ä¸ªä¸“ä¸šçš„å­¦ç”Ÿ
+/content/Shanghainese-ASR/audio/G0004_0_S0231.wav,ä½ è¿˜è·‘åˆ°æˆ‘ä»¬å¯å®¤å»äº†å•Š
+/content/Shanghainese-ASR/audio/G0004_0_S0232.wav,æˆ‘ä¹Ÿå«äº†æˆ‘å§å¥¹ä»¬ä¸¤
+/content/Shanghainese-ASR/audio/G0004_0_S0233.wav,ä½ åœ¨å¹²å—å‘¢ç‰™è¿˜ç—›å—æ‰“è¿‡æ¥å§æƒ³ä½ äº†
+/content/Shanghainese-ASR/audio/G0004_0_S0234.wav,æ˜¯çš„å•Šæˆ‘æ˜å¤©ç»™ä½ æ‰“ç”µè¯
+/content/Shanghainese-ASR/audio/G0004_0_S0235.wav,è¿›ç¤¾ä¼šè¿˜å¯ä»¥å­¦å¾ˆå¤šä¸œè¥¿
+/content/Shanghainese-ASR/audio/G0004_0_S0237.wav,ä½ åœ¨å¹²å—å¿«å‘è¿‡æ¥
+/content/Shanghainese-ASR/audio/G0004_0_S0238.wav,æˆ‘çš„è®¤ä¸ºå°±æ˜¯æˆ–è®¸å®½å®¹æ›´æ˜¯ä¸€ç§çˆ±
+/content/Shanghainese-ASR/audio/G0004_0_S0240.wav,ä¸ºä»€ä¹ˆä¸è¦æˆ‘äº†æˆ‘å¯ä»¥çŸ¥é“ç†ç”±å—
+/content/Shanghainese-ASR/audio/G0004_0_S0241.wav,ç¡ä¸ç€å•Šå¨Ÿå¨Ÿ
+/content/Shanghainese-ASR/audio/G0004_0_S0242.wav,æœ‰äº‹éº½
+/content/Shanghainese-ASR/audio/G0004_0_S0244.wav,ä½ åˆ«å“å”¬æˆ‘äº²çˆ±çš„
+/content/Shanghainese-ASR/audio/G0004_0_S0245.wav,ä½ è¿˜æ˜¯å¥½å¥½åœ¨å®¶é‡Œäº«ç¦å§
+/content/Shanghainese-ASR/audio/G0004_0_S0246.wav,ä½ é™„è¿‘æœ‰ç½‘å§å—
+/content/Shanghainese-ASR/audio/G0004_0_S0247.wav,æ€ä¹ˆäº†è€å©†æ´—å®Œæ¾¡äº†æˆ‘éƒ½ç¡è§‰äº†
+/content/Shanghainese-ASR/audio/G0004_0_S0248.wav,å‘µå‘µå‘µå°±æ˜¯å™¢
+/content/Shanghainese-ASR/audio/G0004_0_S0249.wav,è¯´è¯´ä½ èƒ½æŠŠè€å­æ€ä¹ˆæ ·
+/content/Shanghainese-ASR/audio/G0004_0_S0251.wav,é•¿ç¯‡å°è¯´å¼€å§‹äº†åˆ«ç¡ç€äº†æ˜‚
+/content/Shanghainese-ASR/audio/G0004_0_S0252.wav,åˆ°æ—¶å€™ä½ ä¸€å®šè¦æ‰¾ä¸€ç¾¤äººå»ç»™æˆ‘æ§åœº
+/content/Shanghainese-ASR/audio/G0004_0_S0254.wav,æˆ‘æ˜¯å®³æ€•åœè¯´å‹’æ—©ç‚¹ç¡å§
+/content/Shanghainese-ASR/audio/G0004_0_S0255.wav,é‚£ä½ çŸ¥é“å¥¹å–œæ¬¢ä½ å—
+/content/Shanghainese-ASR/audio/G0004_0_S0256.wav,åœ¨æˆ‘å¿ƒé‡Œä½ çœŸçš„æ˜¯ä¸Šå¤©ç»™æˆ‘çš„ç¤¼ç‰©
+/content/Shanghainese-ASR/audio/G0004_0_S0257.wav,å„¿å­ç¡è§‰äº†å—
+/content/Shanghainese-ASR/audio/G0004_0_S0258.wav,æˆ‘è¦æ˜¯æ²¡åƒä½ ä¼šæ€ä¹ˆåŠ
+/content/Shanghainese-ASR/audio/G0004_0_S0259.wav,å’Œè¿™å·¥ä½œæ²¡å…³ç³»å‘€
+/content/Shanghainese-ASR/audio/G0004_0_S0260.wav,ä½ åˆ°çš„æ€ä¹ˆäº†
+/content/Shanghainese-ASR/audio/G0004_0_S0261.wav,çœŸçš„æ˜¯åœ¨å¼€ç©ç¬‘
+/content/Shanghainese-ASR/audio/G0004_0_S0262.wav,æ­»ä¸«å¤´ä½ æ‚æƒ³åˆ°æˆ‘äº†
+/content/Shanghainese-ASR/audio/G0004_0_S0265.wav,ä½ æ˜¯åˆšæ‰ç¡ç€äº†
+/content/Shanghainese-ASR/audio/G0004_0_S0266.wav,æˆ‘æ²¡é‚£ä¹ˆæ™šç»™ä½ å‘
+/content/Shanghainese-ASR/audio/G0004_0_S0268.wav,çœ‹æ¥è¿˜æ˜¯æˆ‘çš„é¬¼åŠ›ä¸å¤Ÿå‘€
+/content/Shanghainese-ASR/audio/G0004_0_S0270.wav,æ©ä½ è€å°±é‚£ä¹ˆè¯´æ¯æ¬¡è¿˜ä¸æ˜¯ç…§æ°”
+/content/Shanghainese-ASR/audio/G0004_0_S0271.wav,æˆ‘ä¹Ÿè¦ç¡å•¦å˜»å˜»
+/content/Shanghainese-ASR/audio/G0004_0_S0272.wav,è€æ˜¯æ†‹åœ¨å¿ƒé‡Œä¹Ÿéš¾å—
+/content/Shanghainese-ASR/audio/G0004_0_S0273.wav,ä»€ä¹ˆå«é‚£å°±æ˜¯å¥½äº†
+/content/Shanghainese-ASR/audio/G0004_0_S0276.wav,æ²¡æœ‰å•Šå¥½çš„å‘¢
+/content/Shanghainese-ASR/audio/G0004_0_S0278.wav,æŠ±æŠ±ç¡å§æ™šå®‰å¥½æ¢¦
+/content/Shanghainese-ASR/audio/G0004_0_S0279.wav,åˆæŸ¥å²—å‘€æˆ‘ç©ä¼šå„¿å°±ç¡
+/content/Shanghainese-ASR/audio/G0004_0_S0280.wav,å®è´åœ¨è¿‡ä¸€ä¼šç¡
+/content/Shanghainese-ASR/audio/G0004_0_S0281.wav,é™ˆé˜Ÿåœ¨å‘¢åˆ°å“ªä¸‹
+/content/Shanghainese-ASR/audio/G0004_0_S0282.wav,å¥¹åœ¨ç»™è°æ‰“ç”µè¯å‘¢
+/content/Shanghainese-ASR/audio/G0004_0_S0283.wav,è€Œä¸”è¿˜æ°¸è¿œçœ‹ä¸åˆ°æˆ‘äº†
+/content/Shanghainese-ASR/audio/G0004_0_S0284.wav,æ˜å¤©æ— è¯å¯è¯´äº†
+/content/Shanghainese-ASR/audio/G0004_0_S0285.wav,å²åœ¨æ¥è°ç”µè¯å‘¢
+/content/Shanghainese-ASR/audio/G0004_0_S0286.wav,å¯æ˜¯ä½ ä¸åœ¨
+/content/Shanghainese-ASR/audio/G0004_0_S0287.wav,ä¸ºä»€ä¹ˆæ€»æ˜¯åœå‘€
+/content/Shanghainese-ASR/audio/G0004_0_S0288.wav,æˆ‘æ‰€è¯´çš„è¯æ˜¯åœ¨ç»™ä½ å¼€ç©ç¬‘çš„
+/content/Shanghainese-ASR/audio/G0004_0_S0289.wav,ä½ ç¡è§‰äº†å—å¿˜äº†æŠŠæ€è™«å‰‚ç»™ä½ äº†
+/content/Shanghainese-ASR/audio/G0004_0_S0290.wav,å—·ä½ ç°åœ¨æ‰çŸ¥é“æˆ‘æ˜¯æ’’äººäº†
+/content/Shanghainese-ASR/audio/G0004_0_S0291.wav,ç»™æˆ‘å›çŸ­ä¿¡è¦ç ´äº§
+/content/Shanghainese-ASR/audio/G0004_0_S0292.wav,æœ¬æ¥ç¨æœ‰å¥½è½¬ç°åœ¨å¿ƒé‡Œåˆç‹ éš¾å—å»
+/content/Shanghainese-ASR/audio/G0004_0_S0293.wav,äº²çˆ±çš„å‰ä¸¤èŠ‚è¿˜ä¸Šä¸
+/content/Shanghainese-ASR/audio/G0004_0_S0294.wav,ä½ è§‰å¾—æˆ‘æ˜¯ä¸æ˜¯å¾ˆå‚»
+/content/Shanghainese-ASR/audio/G0004_0_S0295.wav,ä½ åœ¨å“ªå„¿ä¸ºä»€ä¹ˆä¸æ‰“ç”µè¯é‚£
+/content/Shanghainese-ASR/audio/G0004_0_S0296.wav,éƒ­éƒ­ä¸‹ç­äº†å§
+/content/Shanghainese-ASR/audio/G0004_0_S0297.wav,å®è´ç¡è§‰äº†å—
+/content/Shanghainese-ASR/audio/G0004_0_S0298.wav,å–å¤šæ²¡æœ‰æ˜å¤©9ç‚¹èµ°
+/content/Shanghainese-ASR/audio/G0004_0_S0300.wav,äºŒå­°éº»å°†æ‰“äº†ä¸‰åä¸€ä¸ªæ¿å­
+/content/Shanghainese-ASR/audio/G0004_0_S0301.wav,é‚£æˆ‘ä¸ç»™ä½ ç”Ÿä½ å°±å¯¹æˆ‘ä¸å¥½å—
+/content/Shanghainese-ASR/audio/G0004_0_S0302.wav,æƒ³è´¼è€å…¬äº†å—
+/content/Shanghainese-ASR/audio/G0004_0_S0303.wav,çœ‹ä¸Šåˆ«äººäº†å—
+/content/Shanghainese-ASR/audio/G0004_0_S0305.wav,åˆ«çœ‹ç”µè§†äº†å¤ªæ™šäº†
+/content/Shanghainese-ASR/audio/G0004_0_S0306.wav,ç”·æœ‹å‹ä¸‹åˆå»å•ä½æ¥æˆ‘ä¸‹ç­
+/content/Shanghainese-ASR/audio/G0004_0_S0310.wav,æˆ‘ä»¬çš„æ„Ÿæƒ…ä½ ä¸æ˜¯ä½ æƒ³çš„é‚£æ ·
+/content/Shanghainese-ASR/audio/G0004_0_S0311.wav,æ‰¾è°å•Šéƒ½è¿™ä¹ˆæ™šäº†è¿˜æ˜¯å»é€šå®µå§
+/content/Shanghainese-ASR/audio/G0004_0_S0312.wav,é‚£ä½ ç«Ÿé‡äº‰å–å§
+/content/Shanghainese-ASR/audio/G0004_0_S0313.wav,ä½ ä¸€å¤©ç´¯ä¸ç´¯å‘€
+/content/Shanghainese-ASR/audio/G0004_0_S0314.wav,åœ¨ç»™åˆ«äººåšä¸ªä¸œè¥¿ä½ åˆé¬¼æ··åˆ°åŠå¤œ
+/content/Shanghainese-ASR/audio/G0004_0_S0315.wav,å¥¹å§è¯´ä»Šæ™šå›æ‰€ä»¥ç°åœ¨èµ°
+/content/Shanghainese-ASR/audio/G0004_0_S0316.wav,æˆ‘ä¸ç»™ä½ è¯´äº†å—
+/content/Shanghainese-ASR/audio/G0004_0_S0317.wav,å…¬å¸è¿™ä¸ªæ ·å­æˆ‘ä¸æƒ³åœ¨è¿™é‡Œä¸Šç­å•¦
+/content/Shanghainese-ASR/audio/G0004_0_S0318.wav,ä½ ç»™æˆ‘å‘ä¸ªç›¸ç‰‡å¥½ä¸å¥½å‘€
+/content/Shanghainese-ASR/audio/G0004_0_S0319.wav,æ€ä¹ˆä¸è¯´äº†æœ‰è¨€åœ¨å…ˆæ˜¯ä»€ä¹ˆå‘¢
+/content/Shanghainese-ASR/audio/G0004_0_S0320.wav,æ²¡äº‹è´¹ç”¨æˆ‘å‡º
+/content/Shanghainese-ASR/audio/G0004_0_S0321.wav,å¥½çš„å†è§æ˜å¤©è§
+/content/Shanghainese-ASR/audio/G0004_0_S0322.wav,è°æ±‚çŸ¥é“æˆ‘ä»¬è€å¤§è¶…çº§é‡è§†è¿™ä¸ªæ£€æŸ¥
+/content/Shanghainese-ASR/audio/G0004_0_S0323.wav,å‘ä¿¡æ¯å¥½å—æˆ‘ç»™ä½ ç­”
+/content/Shanghainese-ASR/audio/G0004_0_S0325.wav,è¿™å“ªæ˜¯è‡ªæ‹é‚£è¿˜ä¸æ˜¯å–œæ¬¢é‚£ä»¶æ‰è¿™æ ·
+/content/Shanghainese-ASR/audio/G0004_0_S0326.wav,æˆ‘æ—©çœ‹å‡ºæ¥äº†
+/content/Shanghainese-ASR/audio/G0004_0_S0327.wav,å°æ ·ä½ é«˜å•Š
+/content/Shanghainese-ASR/audio/G0004_0_S0328.wav,å°±æ˜¯æ•™å¸ˆèµ„æ ¼è¯é»„å’Œæ¢å»äº†
+/content/Shanghainese-ASR/audio/G0004_0_S0330.wav,ç¡äº†æ²¡æœ‰è€å©†
+/content/Shanghainese-ASR/audio/G0004_0_S0331.wav,æˆ‘æ˜æ˜çŸ¥é“å¯è¿˜æ˜¯èˆä¸çš„ä½ 
+/content/Shanghainese-ASR/audio/G0004_0_S0332.wav,æˆ‘ä»€ä¹ˆéƒ½ä¸æƒ³è¯´æˆ‘å¿ƒæƒ…ä¸å¥½å¯¹ä¸èµ·æˆ‘çˆ±ä½ 
+/content/Shanghainese-ASR/audio/G0004_0_S0333.wav,çœŸçš„ä¸å¥½æ„æ€å™¢
+/content/Shanghainese-ASR/audio/G0004_0_S0334.wav,æˆ‘å¯ä¸æƒ³åœ¨å’Œä½ ç»“å©šä»¥å‰å°±å˜æˆé»„è„¸å©†
+/content/Shanghainese-ASR/audio/G0004_0_S0335.wav,åå®Œäº†èƒƒèˆ’æœå¤šäº†
+/content/Shanghainese-ASR/audio/G0004_0_S0336.wav,æ²¡æ„æ€å·¥ä½œè¿›å±•ä¸å¥½
+/content/Shanghainese-ASR/audio/G0004_0_S0337.wav,ä»Šå¤©æ¥æ‚ä¸ªèœ
+/content/Shanghainese-ASR/audio/G0004_0_S0339.wav,é—¨éƒ½å¿«å…³å®Œäº†ä½ è¿˜æ²¡å®Œäº†
+/content/Shanghainese-ASR/audio/G0004_0_S0340.wav,æˆ‘ç°åœ¨ä¸åœ¨å®¶åœ¨æœ‹å‹å®¶é‚£
+/content/Shanghainese-ASR/audio/G0004_0_S0341.wav,å§å§æ™šä¸Šå›å®¶æ³¨æ„å®‰å…¨
+/content/Shanghainese-ASR/audio/G0004_0_S0342.wav,çº¢æ¢…æŠŠå‡Œäº‘çš„å·ç»™æˆ‘å‘ä¸€ä¸‹
+/content/Shanghainese-ASR/audio/G0004_0_S0343.wav,ä¹Ÿæ²¡çœ‹æˆæŠŠäººå¤±æœ›çš„
+/content/Shanghainese-ASR/audio/G0004_0_S0344.wav,çŒç¡è™«æˆ‘çœ‹ä½ çŒç¡äº†å§ä¹Ÿä¸æƒ³æˆ‘
+/content/Shanghainese-ASR/audio/G0004_0_S0346.wav,æˆ‘ä»¬è¿˜æ˜¯ç¦»
+/content/Shanghainese-ASR/audio/G0004_0_S0347.wav,æˆ‘ä¸èƒ½è®©ä½ å’Œå­©å­æ²¡åæ²¡ä»½å§
+/content/Shanghainese-ASR/audio/G0004_0_S0348.wav,å“æˆ‘æ— è¨€äº†
+/content/Shanghainese-ASR/audio/G0004_0_S0349.wav,å°æ€ä¹ˆäº†æ‰å‡ ä¸ªæœˆè€Œä»¥
+/content/Shanghainese-ASR/audio/G0004_0_S0350.wav,å¯æœ‰æ—¶å€™æ”¾å¼ƒä¹Ÿæ˜¯ä¸ªå¥½é€‰æ‹©
+/content/Shanghainese-ASR/audio/G0004_0_S0351.wav,æˆ‘åšäº†å¥½å¤šæ¬¡éƒ½ä¸æˆåŠŸ
+/content/Shanghainese-ASR/audio/G0004_0_S0352.wav,ç»™æˆ‘ä»¬å”±æ­Œå¥½å—å“¥å“¥ä»Šå¤©æˆ‘è¿‡ç”Ÿæ—¥
+/content/Shanghainese-ASR/audio/G0004_0_S0354.wav,äº²çˆ±çš„ä¸Šç­ç´¯äº†å§
+/content/Shanghainese-ASR/audio/G0004_0_S0355.wav,æ™šä¸Šå¥½å…¬ä¸»ä½ ä»Šå¤©è¿™æ—©ç¡è§‰äº†
+/content/Shanghainese-ASR/audio/G0004_0_S0356.wav,ä½ æ¢å·äº†è¿˜åœ¨å®¶é—²çš„å‘¢å•Š
+/content/Shanghainese-ASR/audio/G0004_0_S0357.wav,æˆ‘è¦åƒä½ å¼„å¾—
+/content/Shanghainese-ASR/audio/G0004_0_S0358.wav,ä½ æ ¹æœ¬ä¸æ‡‚æˆ‘è¦çš„ä»€ä¹ˆ
+/content/Shanghainese-ASR/audio/G0004_0_S0359.wav,æ°¸è¿œä¸ä¼šå˜
+/content/Shanghainese-ASR/audio/G0004_0_S0360.wav,æ‘ä¸€å®šä¸èƒ½
+/content/Shanghainese-ASR/audio/G0004_0_S0361.wav,é¦–æ¬¡å‘è´§æ˜¯ä¸¤ä¸‡25æ‹¿
+/content/Shanghainese-ASR/audio/G0004_0_S0362.wav,ç®€ç›´æ˜¯å¤ªåƒå‹’
+/content/Shanghainese-ASR/audio/G0004_0_S0363.wav,ä½ çš„æ„æ€æ˜¯æœ‰äº†
+/content/Shanghainese-ASR/audio/G0004_0_S0364.wav,æ•°å­¦å‡ºæ¥äº†æˆ‘è€ƒå…‹æœ65
+/content/Shanghainese-ASR/audio/G0004_0_S0366.wav,å‘µå‘µæƒ³ä½ äº†æƒ³è·Ÿä½ èŠä¼šå„¿
+/content/Shanghainese-ASR/audio/G0004_0_S0367.wav,æˆ‘å›æ¥äº†ç»™ä½ æ‰“ç”µè¯ä½ æ¥å“¦
+/content/Shanghainese-ASR/audio/G0004_0_S0368.wav,ä½ ä¸ä¼šå·²ç»ç¡ç€äº†å§
+/content/Shanghainese-ASR/audio/G0004_0_S0369.wav,æ€ä¹ˆå›ä¸æ¥
+/content/Shanghainese-ASR/audio/G0004_0_S0370.wav,æ´—å®Œäº†åœ¨èººç€ä»Šå¤©ä¸Šç­è¿˜è¡Œå§
+/content/Shanghainese-ASR/audio/G0004_0_S0371.wav,è‘«å­è€å®å•Šæ€ä¹ˆäº†æˆ‘æ²¡è¯´ä»€ä¹ˆå•Š
+/content/Shanghainese-ASR/audio/G0004_0_S0372.wav,çœŸçš„å“¥å…‰çœ‹å‘å‹å°±çŸ¥é“ä½ ä¸åœ¨
+/content/Shanghainese-ASR/audio/G0004_0_S0373.wav,æƒ³å’Œä½ èŠèŠå·¥ä½œçš„äº‹ä½ æ€»æ˜¯ä¸åœ¨çº¿
+/content/Shanghainese-ASR/audio/G0004_0_S0374.wav,æˆ‘ä¹Ÿåœ¨æƒ³æˆ‘ä»¥åçš„çŸ¥å¿ƒçˆ±äºº
+/content/Shanghainese-ASR/audio/G0004_0_S0376.wav,ä½ æ€ä¹ˆæ ·äº†å†°å—è¿™å·ç‹å³°çŸ¥é“å—
+/content/Shanghainese-ASR/audio/G0004_0_S0377.wav,æ˜å¤©ä¸Šåˆç­‰ä½ ä¿¡æ¯
+/content/Shanghainese-ASR/audio/G0004_0_S0378.wav,æˆ‘ä¹Ÿç‰¹æƒ³ä¹°ä¸ªäº”åå·¦å³çš„å•èº«å…¬å¯“
+/content/Shanghainese-ASR/audio/G0004_0_S0380.wav,ä½ çˆ¶æ¯èµ°äº†
+/content/Shanghainese-ASR/audio/G0004_0_S0381.wav,è€å…¬ä½ ç´¯äº†å°±ä¼‘æ¯ä¼šå†å¼€å§
+/content/Shanghainese-ASR/audio/G0004_0_S0382.wav,æˆ‘ä¸ç»™ä½ ä¿è¯æ²¡äººè·Ÿä½ æŠ¢å•Š
+/content/Shanghainese-ASR/audio/G0004_0_S0383.wav,æ˜‚æˆ‘å°±åœ¨æˆ‘ä»¬å®¶è·¯å£å‘¢
+/content/Shanghainese-ASR/audio/G0004_0_S0384.wav,è™½ä¸å¸¸è”ç³»ä½†ä»æœªæ›¾å¿˜è®°
+/content/Shanghainese-ASR/audio/G0004_0_S0385.wav,å®¶é‡Œéƒ½è¿˜å¥½
+/content/Shanghainese-ASR/audio/G0004_0_S0386.wav,æ€ä¹ˆæçš„å‘¢
+/content/Shanghainese-ASR/audio/G0004_0_S0387.wav,è°ç¼ ç€ä½ å°±é—®è°è¦å°è´¹
+/content/Shanghainese-ASR/audio/G0004_0_S0388.wav,è¿™äº›å¤©æˆ‘å¾ˆä¸å®‰
+/content/Shanghainese-ASR/audio/G0004_0_S0391.wav,è€äºŒç°åœ¨å¹²ä»€ä¹ˆæ´»å“ª
+/content/Shanghainese-ASR/audio/G0004_0_S0392.wav,ç¾å¥³å·å‘ä¸¤ä¸ªæ’¤æˆ‘å–§ä¸€å“ˆæ’’
+/content/Shanghainese-ASR/audio/G0004_0_S0393.wav,æ˜¯å•Šæ´—å®Œäº†å§
+/content/Shanghainese-ASR/audio/G0004_0_S0394.wav,ä½ å¥½è±¡å¿˜è¯´ä»€ä¹ˆäº†
+/content/Shanghainese-ASR/audio/G0004_0_S0395.wav,æˆ‘å°±æ˜ç™½å‹’
+/content/Shanghainese-ASR/audio/G0004_0_S0396.wav,2ç‚¹10åˆ†åœ¨è§¦åŠ¨é—¨å£è§
+/content/Shanghainese-ASR/audio/G0004_0_S0397.wav,ä»Šå¤©æ˜¯æˆ‘ä»¬å€¼å‘¨çš„ç¬¬äºŒå¤©ä»–æ€ä¹ˆæ ·å‘€
+/content/Shanghainese-ASR/audio/G0004_0_S0398.wav,ä½ æ‰¾ä»–æœ‰äº‹ä¹ˆ
+/content/Shanghainese-ASR/audio/G0004_0_S0399.wav,è€æ¿é‚£ä¸ªå°å§‘å¨˜çš„ç”µè¯èƒ½ä¸èƒ½ç»™æˆ‘
+/content/Shanghainese-ASR/audio/G0004_0_S0400.wav,ç½šä½ æ‰‹æœºé»‘å±ä¸€å°æ—¶å¥½
+/content/Shanghainese-ASR/audio/G0004_0_S0401.wav,è®°ä½æˆ‘å¯¹ä½ æ˜¯ç”¨å¿ƒçš„
+/content/Shanghainese-ASR/audio/G0004_0_S0402.wav,éƒ½æŠŠäººæ‹‰çš„é¥¿çš„ä¸è¡Œå‹’
+/content/Shanghainese-ASR/audio/G0004_0_S0403.wav,ä»Šå¤©ä¸€å¬åˆ°è¿™æ¶ˆæ¯ä»–ä»¬éƒ½åƒéœœæ‰“çš„èŒ„å­
+/content/Shanghainese-ASR/audio/G0004_0_S0404.wav,ä½ è¿˜æ˜¯ç»™æˆ‘è¯´ç‹ å¿ƒè¯å§
+/content/Shanghainese-ASR/audio/G0004_0_S0405.wav,é¡ºä¾¿é—®ä¸‹ä½ å°†è¦ä¼šè°å•Š
+/content/Shanghainese-ASR/audio/G0004_0_S0407.wav,å‡ºå»äº†è¿˜æ²¡å›æ¥
+/content/Shanghainese-ASR/audio/G0004_0_S0409.wav,æˆ‘æœ‰æ—¶é—´è¿˜è®©ä½ è¯´å‘¢å—
+/content/Shanghainese-ASR/audio/G0004_0_S0410.wav,å¥½æˆ‘å…¨å¬ä½ çš„ä»¥åä¸åœ¨æ‰“éº»å°†äº†
+/content/Shanghainese-ASR/audio/G0004_0_S0411.wav,å’¦ç¡ç€äº†çœŸå‘†
+/content/Shanghainese-ASR/audio/G0004_0_S0412.wav,æˆ‘æœ€è¿‘ç©å¤±è¸ªå‘¢
+/content/Shanghainese-ASR/audio/G0004_0_S0413.wav,æ—©ç‚¹å›æ¥æˆ‘åœ¨å®¶ç­‰ä½ 
+/content/Shanghainese-ASR/audio/G0004_0_S0414.wav,è¿˜è¯´å–œæ¬¢æˆ‘åŸæ¥æ˜¯å–œæ¬¢é’±å•Š
+/content/Shanghainese-ASR/audio/G0004_0_S0416.wav,ä½ å‘Šè¯‰æˆ‘çš„ä»–ä»¬è¿˜æ¥çš„
+/content/Shanghainese-ASR/audio/G0004_0_S0417.wav,å¸Œæœ›æ²¡ä»€ä¹ˆå§
+/content/Shanghainese-ASR/audio/G0004_0_S0418.wav,æˆ‘åº”è¯¥ä¼šäº‰å–ç•™åœ¨ç±³æ³‰å§
+/content/Shanghainese-ASR/audio/G0004_0_S0419.wav,æ€ä¹ˆåˆç½‘ç»œå¿™
+/content/Shanghainese-ASR/audio/G0004_0_S0420.wav,æ²¡äº‹æ—©ç‚¹ä¼‘æ¯å•Šæ™šå®‰
+/content/Shanghainese-ASR/audio/G0004_0_S0421.wav,é‚£å¯¹ä¸èµ·å—
+/content/Shanghainese-ASR/audio/G0004_0_S0423.wav,ä½ æƒ³çœ‹è§æˆ‘å—
+/content/Shanghainese-ASR/audio/G0004_0_S0424.wav,æˆ‘å¥½æœ‹å‹æˆ‘æƒ³ä½ 
+/content/Shanghainese-ASR/audio/G0004_0_S0426.wav,ä¸€ä¸¤å¥è¯ä¹Ÿè¯´ä¸æ¸…
+/content/Shanghainese-ASR/audio/G0004_0_S0427.wav,è€å©†æ­‡ç€é‚£æˆ‘æƒ³ç¡è§‰äº†å¥½æƒ³ä½ 
+/content/Shanghainese-ASR/audio/G0004_0_S0429.wav,æˆ‘éƒ½æ¬å‡ºæ¥äº†
+/content/Shanghainese-ASR/audio/G0004_0_S0430.wav,ä¸ç”¨å•¦æ²¡äº‹æˆ‘ç¡å•¦åˆ«å›çŸ­ä¿¡
+/content/Shanghainese-ASR/audio/G0004_0_S0431.wav,ä½ æƒ³å·²åè¿‡ä»€ä¹ˆæ ·ç”Ÿæ´»
+/content/Shanghainese-ASR/audio/G0004_0_S0432.wav,è°¢è°¢ä½ è¢„ä½ è¿˜æ²¡ç¡å‘¢å˜›
+/content/Shanghainese-ASR/audio/G0004_0_S0433.wav,è¦æ˜¯ä¸å¥½å°±ç»™æˆ‘è¯´ä½ çŸ¥é“å—
+/content/Shanghainese-ASR/audio/G0004_0_S0434.wav,å“¦ä½ æ¢å·å•¦ç°åœ¨åœ¨å“ªå‘¢
+/content/Shanghainese-ASR/audio/G0004_0_S0435.wav,å’Œä½ è¯´ç¬‘äº†ä¸è¦ç”Ÿæ°”å¥½å¿«ç¡å§æ™šå®‰
+/content/Shanghainese-ASR/audio/G0004_0_S0436.wav,æˆ‘æƒ³æ—©ä¸Šèµ·æ¥èƒŒèƒŒ
+/content/Shanghainese-ASR/audio/G0004_0_S0438.wav,å‘µå‘µçœ‹åˆ°äº†å¥½å¯çˆ±å‘€
+/content/Shanghainese-ASR/audio/G0004_0_S0439.wav,è’½æˆ‘å°±è¯´çæƒœè¿‡å‘€
+/content/Shanghainese-ASR/audio/G0004_0_S0440.wav,ä½ å¿«æ´»ä½ åƒå§æˆ‘ç¡äº†é¥¿é˜¿éƒé—·
+/content/Shanghainese-ASR/audio/G0004_0_S0441.wav,æ¯æ¬¡æˆ‘é—®æˆ‘è¯´æˆ‘æ²¡è¯è¯´äº†
+/content/Shanghainese-ASR/audio/G0004_0_S0443.wav,é‚£å¯ä¸è¡Œè¿™å¾ˆé‡è¦çš„ä½ ä¸èƒ½è€èµ–
+/content/Shanghainese-ASR/audio/G0004_0_S0444.wav,å°±ä»Šå¤©ä¸‹åˆåƒé¥­æ—¶
+/content/Shanghainese-ASR/audio/G0004_0_S0446.wav,è¿˜è¯´å•¥è¯å‘¢
+/content/Shanghainese-ASR/audio/G0004_0_S0448.wav,é‚£ä½ åœ¨ç­‰ä¼šæ²¡äººæ—©ç‚¹å›å®¶ä¼‘æ¯
+/content/Shanghainese-ASR/audio/G0004_0_S0450.wav,è‡ªå·±æƒ³å¼€ä¸è¡Œå› ä¸ºç”Ÿæ´»ä¸­è¿˜æœ‰åˆ«äºº
+/content/Shanghainese-ASR/audio/G0004_0_S0451.wav,ä¸ç®¡ç»“æœæ‚æ ·æˆ‘ä¸ä¼šæ€ªä½ éƒ½æ˜¯æˆ‘çš„é”™
+/content/Shanghainese-ASR/audio/G0004_0_S0452.wav,ä¸ä¼šé‚£ä¹ˆå°æ°”å§ä¸è¦å—å¥½å—
+/content/Shanghainese-ASR/audio/G0004_0_S0453.wav,å¹²å˜›è¿˜ä¸ç†æˆ‘
+/content/Shanghainese-ASR/audio/G0004_0_S0454.wav,å˜¿å˜¿å€¼å¾—é«˜å…´
+/content/Shanghainese-ASR/audio/G0004_0_S0455.wav,ä»€ä¹ˆåœ¨å“ªçœ‹çš„
+/content/Shanghainese-ASR/audio/G0004_0_S0456.wav,æ˜å¤©æœ‰æ—¶é—´å—
+/content/Shanghainese-ASR/audio/G0004_0_S0457.wav,ä½ é‚£ä¹ˆè¾ƒçœŸçš„é—®æˆ‘æˆ‘æ€ä¹ˆå›ç­”
+/content/Shanghainese-ASR/audio/G0004_0_S0458.wav,ä½å®¿å’‹æ ·æ˜¯ä¸æ˜¯å¾ˆé«˜å…´å•Š
+/content/Shanghainese-ASR/audio/G0004_0_S0459.wav,äººç”Ÿæ²¡æœ‰æ‰€æœ‰æƒåªæœ‰ä½¿ç”¨æƒ
+/content/Shanghainese-ASR/audio/G0004_0_S0460.wav,å¿µä½ çˆ±ä½ 
+/content/Shanghainese-ASR/audio/G0004_0_S0461.wav,å“ˆå“ˆäº²çˆ±çš„æ²¡æ’’å•Šå¾ˆå¾ˆæƒ³ä½ å™¢
+/content/Shanghainese-ASR/audio/G0004_0_S0464.wav,æˆ‘æ˜¯å¥¹æœ‹å‹
+/content/Shanghainese-ASR/audio/G0004_0_S0465.wav,è¿˜æ²¡ç¡ç¡ä¸ç€ä½ å‘¢åœ¨åšä»€ä¹ˆå‘€
+/content/Shanghainese-ASR/audio/G0004_0_S0466.wav,æˆ‘æ‰¾äº†ä¸€å¼ å†…å­˜å¡
+/content/Shanghainese-ASR/audio/G0004_0_S0468.wav,æœ¬æ¥æˆ‘ä»¬ç°åœ¨è°éƒ½ä¸ç†è°
+/content/Shanghainese-ASR/audio/G0004_0_S0469.wav,å¥½å§æˆ‘å¿ƒæƒ…ä¸å¥½ä½ ä¼‘æ¯å§
+/content/Shanghainese-ASR/audio/G0004_0_S0470.wav,ç°ä»¥åœ¨å¹²ä»€ä¹ˆ
+/content/Shanghainese-ASR/audio/G0004_0_S0471.wav,ä»€ä¹ˆæˆ‘å’Œè°æˆ‘æœ‰å¹²å¯¹ä¸èµ·ä½ çš„äº‹
+/content/Shanghainese-ASR/audio/G0004_0_S0472.wav,åˆšå›å­¦æ ¡æ€ä¹ˆæƒ³æˆ‘äº†
+/content/Shanghainese-ASR/audio/G0004_0_S0473.wav,å¥½å§å¨œå“¥å“¥æˆ‘å¿«ç¡ç€äº†
+/content/Shanghainese-ASR/audio/G0004_0_S0474.wav,å‘¢ä½ æ‰“ç”µè¯è¿‡æ¥ç»™ä½ å¬
+/content/Shanghainese-ASR/audio/G0004_0_S0475.wav,å•ä¸»ä»»æ‚¨å¥½
+/content/Shanghainese-ASR/audio/G0004_0_S0476.wav,æ²¡ç¡ä¸Šç½‘çœ‹ç”µè§†å‘¢
+/content/Shanghainese-ASR/audio/G0004_0_S0477.wav,æˆ‘ä»¬ä¿©ç¼˜ä»½æ˜¯æœ€çº¯æ´çš„
+/content/Shanghainese-ASR/audio/G0004_0_S0478.wav,ä½ è¯´ä½ èƒ½æ‰¾åˆ°å—
+/content/Shanghainese-ASR/audio/G0004_0_S0479.wav,å—¯ä¸çŸ¥é“å¹²ä»€ä¹ˆå–”
+/content/Shanghainese-ASR/audio/G0004_0_S0480.wav,ä»–ä»¬æ¯”æˆ‘å¾ˆé‡è¦æ˜¯å§
+/content/Shanghainese-ASR/audio/G0004_0_S0481.wav,åˆšæ´—å®Œæ™šä¸Šåˆæ²¡æ€ä¹ˆçœ‹ä¹¦å§
+/content/Shanghainese-ASR/audio/G0004_0_S0482.wav,é©¬è€å¸ˆä½ å¥½
+/content/Shanghainese-ASR/audio/G0004_0_S0483.wav,å°±ä¸èƒ½æ€åº¦å¥½ç‚¹å—
+/content/Shanghainese-ASR/audio/G0004_0_S0484.wav,æœ€åä¸€å¤©äº†æ²¡äº‹æ—©ç‚¹ä¼‘æ¯
+/content/Shanghainese-ASR/audio/G0004_0_S0485.wav,ç¡è§‰æ²¡æˆ‘ç¡ä¸ç€å•Š
+/content/Shanghainese-ASR/audio/G0004_0_S0486.wav,ä½ æ˜¯ä½†æ˜¯è°¢è°¢å•Š
+/content/Shanghainese-ASR/audio/G0004_0_S0488.wav,é‚£ä½ ä»€ä¹ˆæ—¶å€™ç»™æˆ‘æ‰“ç”µè¯
+/content/Shanghainese-ASR/audio/G0004_0_S0489.wav,å¿«æ”¾å‡å›å®¶äº†æ‰è¿™æ ·è¯´çš„ä¹ˆ
+/content/Shanghainese-ASR/audio/G0004_0_S0490.wav,å™¢å™¢é‚£ä½ è§è¿‡æˆ‘å—
+/content/Shanghainese-ASR/audio/G0004_0_S0491.wav,æ²¡äº‹ä¸ç”¨è¿‡å»æ‹‰ä»–çˆ¸åœ¨åšæ‰‹æœ¯å¿«ç‚¹æ¥ä¸€ç½‘
+/content/Shanghainese-ASR/audio/G0004_0_S0492.wav,ä¸è¯´äº†æ˜å¤©åœ¨è¯´
+/content/Shanghainese-ASR/audio/G0004_0_S0493.wav,æœ‰æ²¡æœ‰æ—¶é—´å’Œæˆ‘ä¹ŸèŠä¼šå‘€
+/content/Shanghainese-ASR/audio/G0004_0_S0495.wav,å—¯å‘¢ä½ ä¹Ÿç¡å–”
+/content/Shanghainese-ASR/audio/G0004_0_S0496.wav,æˆ‘å¸Œæœ›ä½ å¹¸ç¦
+/content/Shanghainese-ASR/audio/G0004_0_S0498.wav,è¦å­¦ä¼šç…§é¡¾è‡ªå·±
+/content/Shanghainese-ASR/audio/G0004_0_S0499.wav,å…‰é—²æ‰¯å¿˜äº†é—®ä½ 
+/content/Shanghainese-ASR/audio/G0004_0_S0501.wav,åªèƒ½æ”¶çŸ­ä¿¡å’Œæ¥ç”µè¯
+/content/Shanghainese-ASR/audio/G0004_0_S0502.wav,è€å…¬çš„å”¯ä¸€çš„å®è´
+/content/Shanghainese-ASR/audio/G0004_0_S0503.wav,æ˜å¤©æ—©ä¸Šå…«ç‚¹äºŒååƒé¥­å§
+/content/Shanghainese-ASR/audio/G0004_0_S0505.wav,ç¥ä½ å›¢å›¢åœ†åœ†
+/content/Shanghainese-ASR/audio/G0004_0_S0506.wav,ä»€ä¹ˆäº‹äº²çˆ±çš„
+/content/Shanghainese-ASR/audio/G0004_0_S0507.wav,ä»€ä¹ˆå«ç®—æ˜¯
+/content/Shanghainese-ASR/audio/G0004_0_S0508.wav,åˆ«åªç­”åº”åšä¸åˆ°å“¦
+/content/Shanghainese-ASR/audio/G0004_0_S0509.wav,ä½ ä»Šå¤©ä¸ºä»€ä¹ˆä¸é«˜å…´èƒ½å‘Šè¯‰æˆ‘å—é€Ÿå›
+/content/Shanghainese-ASR/audio/G0004_0_S0510.wav,å¥½çš„å¥½å¥½ä¼‘æ¯å§
+/content/Shanghainese-ASR/audio/G0004_0_S0511.wav,æˆ‘æœ‰äº‹æƒ³é—®ä½ æœ¬æƒ³ç™½å¤©é—®ä½†æ²¡æœºä¼šæ‹‰
+/content/Shanghainese-ASR/audio/G0004_0_S0512.wav,ä½ æ¯å¤©éƒ½è¿™æ²¡æ™šåƒé¥­å—
+/content/Shanghainese-ASR/audio/G0004_0_S0514.wav,å°±æ˜¯æ‰“ç”µè¯ç»™ä½ è¯´ä¸€ä¸‹
+/content/Shanghainese-ASR/audio/G0004_0_S0515.wav,ä½ æŠŠæˆ‘éƒ½å¿˜äº†
+/content/Shanghainese-ASR/audio/G0004_0_S0516.wav,æˆ‘åœ¨çº¢å¢©å‘¢
+/content/Shanghainese-ASR/audio/G0004_0_S0518.wav,å¦ˆå¦ˆç¡ç€æ²¡æœ‰
+/content/Shanghainese-ASR/audio/G0004_0_S0519.wav,å¹ç‰›ä½ ç¡è§‰äº†æ²¡æœ‰
+/content/Shanghainese-ASR/audio/G0004_0_S0520.wav,æˆ‘åˆåé”äº†
+/content/Shanghainese-ASR/audio/G0004_0_S0521.wav,å¯èƒ½æ˜¯å¯¹è„¾æ°”å§åˆ«å¿˜äº†æ˜å¤©æŠŠåœ°å€ç»™æˆ‘
+/content/Shanghainese-ASR/audio/G0004_0_S0522.wav,å¥½å‘€é‚£ä½ è¿˜ä¸ä¼‘æ¯å—æˆ‘è¦å”¾äº†è€å©†
+/content/Shanghainese-ASR/audio/G0004_0_S0523.wav,æ²¡æœ‰ä¸æ”¾å¿ƒä½ 
+/content/Shanghainese-ASR/audio/G0004_0_S0524.wav,æˆ‘çŸ¥é“è¯¥æ€ä¹ˆåšäº†
+/content/Shanghainese-ASR/audio/G0004_0_S0525.wav,ä½ ç°åœ¨åšäº›ä»€ä¹ˆå‘¢
+/content/Shanghainese-ASR/audio/G0004_0_S0526.wav,å¥¹ä»¬éƒ½æ˜¯ä¸‰ä¸ªæœˆä¸€äº¤
+/content/Shanghainese-ASR/audio/G0004_0_S0528.wav,ä½ æ€ä¹ˆè¿˜è¯´
+/content/Shanghainese-ASR/audio/G0004_0_S0529.wav,å¤±çœ äº†ç¡ä¸ç€
+/content/Shanghainese-ASR/audio/G0004_0_S0530.wav,ä½ æ‚æ²¡é¥¿æ­»
+/content/Shanghainese-ASR/audio/G0004_0_S0531.wav,é‚£ä¹ˆæ¸…æ¥šä½ ç”µè¯é—®é¢˜å§
+/content/Shanghainese-ASR/audio/G0004_0_S0532.wav,ä½ ä¸çœ‹ç”µè§†å—
+/content/Shanghainese-ASR/audio/G0004_0_S0533.wav,å¥½çš„é‚£æˆ‘æ™šå®‰äº†å¤šæ³¨æ„äº›åˆ«ç€å‡‰
+/content/Shanghainese-ASR/audio/G0004_0_S0535.wav,å¹²å—å‘¢ç¡äº†å—æ€ä¸ç†æˆ‘äº†
+/content/Shanghainese-ASR/audio/G0004_0_S0536.wav,äº²çˆ±å¾·è€å…¬æˆ‘çŸ¥é“äº†
+/content/Shanghainese-ASR/audio/G0004_0_S0539.wav,æˆ‘ä¹Ÿä¼šå†™å•Šå»ä¼ŠçŠæˆ‘æ™šä¸Šå¯ä»¥å›æ¥å—
+/content/Shanghainese-ASR/audio/G0004_0_S0540.wav,æ²¡äº‹æˆ‘ç¡äº†å“¦
+/content/Shanghainese-ASR/audio/G0004_0_S0541.wav,ä¹°ä¸Šäº†è¿‡æœŸçš„
+/content/Shanghainese-ASR/audio/G0004_0_S0542.wav,æ²¡æœ‰åœ¨ä¸ç¡è‚šå­é‡Œå®å®å°±çŒç¡æ­»äº†
+/content/Shanghainese-ASR/audio/G0004_0_S0544.wav,ç¡å§ç›–å¥½è¢«è¢«
+/content/Shanghainese-ASR/audio/G0004_0_S0545.wav,æˆ‘è¿˜æ²¡ç¡å‘¢å¸¦ç€è€³æœºå¬ä¼šéŸ³ä¹
+/content/Shanghainese-ASR/audio/G0004_0_S0547.wav,æˆ‘æ˜åå¤©å¯èƒ½è¦ç”¨
+/content/Shanghainese-ASR/audio/G0004_0_S0548.wav,åˆ«æŠŠæˆ‘æƒ³çš„é‚£ä¹ˆå
+/content/Shanghainese-ASR/audio/G0004_0_S0549.wav,æ¯æ¬¡å‹‰å¼ºä½ æ‰¾æˆ‘åæˆ‘
+/content/Shanghainese-ASR/audio/G0004_0_S0550.wav,ä¹ˆç”Ÿæ°”ä¸æ¥æˆ‘ä¹Ÿä¹ˆåŠæ³•å•Šè¿˜ä¹ˆç¡å˜›
